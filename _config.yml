@@ -8,7 +8,7 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : DDW    #default["repository_name"]
+title                   : TUD at DDW    #default["repository_name"]
 title_separator         :     #default [" | "]
 subtitle                :     #default [your-repository-tagline]  
 description             : Delft Design Week 2023 #default [your-repository-tagline]
@@ -93,11 +93,16 @@ navbar:
   style     :  #default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
   expand    :  # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
-    title   :  DDW # Title in navbar
+    title   :  Home # Title in navbar
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  # - title   : Blog # Label
+  - title   : Language # Label
+    child:
+      - title: English
+        url: /
+      - title: Dutch
+        url: /nl
 #Social links to be placed on your site footer
 footer:
   links:

@@ -23,9 +23,24 @@
   background-image: url('/assets/img/TUdelft-Background-Portrait-A4.png');
 }
 
-.custom-font {
-  font-family: customfont; 
-  src: url('/assets/font/NeueMachina-Ultrabold.otf');
+@font-face {
+  font-family: NeueMachina-Ultrabold; 
+  src: url('/assets/font/NeueMachina-Ultrabold.otf') format("opentype");
+}
+
+.NeueMachina-h3 {
+  font-family:  NeueMachina-Ultrabold;
+  font-size: 22px;
+}
+
+.open-sans {
+  font-family: 'Open Sans';
+  font-size: 16px;
+}
+
+.NeueMachina {
+  font-family: NeueMachina-Ultrabold;
+  font-size: 16px;
 }
 
 .orange-card {

@@ -82,30 +82,9 @@ We give away free tickets for Dutch Design Week! Sign up  before 8th of October 
 </p>
 
 <a
- href="/freeticket" class="btn btn-primary btn-lg active  open-sans" role="button" aria-pressed="true">SIGN ME UP!
+ href="/nl/freeticket" class="btn btn-primary btn-lg active  open-sans" role="button" aria-pressed="true">SIGN ME UP!
 </a>
   </div>
 </div>
 <br>
 
-<!-- <div class="container text-center">
-    <form action="https://docs.google.com/forms/d/e/1FAIpQLSfdc1unbcgQZHS4Lb-pI-a1Q9STDNdGm39bc_eG18JwBc5DZA/formResponse" method="POST">
-        <div class="item">
-            <label for="freeform">I am dreaming of a world with...</label>
-            <br>
-            <textarea id="freeform" placeholder="I am dreaming of a world with …" name="entry.611985276" required rows="4" cols="50" >
-            </textarea><br>
-        </div>
-        <p>Leave your  name and email address to update you about our exhibition</p>
-        <div class="item">
-            <label>Name:</label><br>
-            <input name="entry.1065905976" required type="text" placeholder="Fill in your full name" />
-        </div>
-        <div class="item">
-            <label>Email:</label><br>
-            <input name="entry.1561828014" required type="text" placeholder="Fill in your email address here"/>
-        </div><br>
-        <input type="submit" value="Submit" class="btn btn-primary">
-        <h3>SEE YOU SOON!</h3>
-    </form>
-</div> -->

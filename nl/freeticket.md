@@ -6,7 +6,7 @@ subtitle: Free Ticket
 header_img: assets/img/TUdelft-EmailBanners-03.png
 ---
 
-<div class="card shadow text-center purple-card">
+<div class="card text-center purple-card">
   <div class="card-body">
     <h2 class="card-title NeueMachina-h3" style="color: white;">Yaaass, free tickets please!!</h2>
     <p class="card-text open-sans" style="color: white;">We give away free tickets for Dutch Design Week!<br>
@@ -15,7 +15,7 @@ Fill in this form below before 8th of October 2023 and we let you know on the 11
 </div>
 <br>
 
-<div class="card shadow text-center white-card">
+<div class="card text-center white-card">
   <div class="card-body">
     <h3 class="card-title NeueMachina-h3">Fill in this form</h3>
 
