@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Dutch Design Week
+# title-heading: false
+# title: Dutch Design Week
+name: true
+title: false
 header_type: image
 # subtitle: Dutch Design Week
-header_img: assets/img/TUdelft-EmailBanners-03.png
+header_img: assets/img/TUdelft-EmailBanners-06.png
 
 ---
 <div class="card shadow videoWrapper">
@@ -15,16 +18,16 @@ header_img: assets/img/TUdelft-EmailBanners-03.png
   <div class="card-body">
     <h3 class="card-title NeueMachina-h3">How would you design the perfect world?</h3>
     <p class="card-text open-sans">
-Designers from <a href="https://www.tudelft.nl/ide" style="text-decoration: none;color:blue">TU Delft Industrial Design Engineering</a> invite you to come explore their futuristic dream worlds in our immersive experience <span class="open-sans">at Dutch Design Week 2023</span>. Expect to be surprised by their interactive installations, that make you wonder how we can redesign for a better society: Where products are truly sustainable, people are equal and really happy, and where technology instead of dividing us, connects us. 
+Designers from <a href="https://www.tudelft.nl/ide" target="_blank"><u class="NeueMachina">TU Delft Industrial Design Engineering</u></a> invite you to come explore their futuristic dream worlds in our <span class="NeueMachina">immersive experience</span> at Dutch Design Week 2023. Expect to <span class="NeueMachina">be surprised</span> by their interactive installations, that make you wonder how we can redesign for a better society: Where products are truly sustainable, people are equal and really happy, and where technology instead of dividing us, connects us. 
 </p>
 
 <p class="card-text open-sans">
-There is something exciting for anyone! Release all your stress in our Mind Muscle Club gym, share your thoughts with talking bench Bruno, design your own robot friend, and many more to discover!
+There is something exciting for anyone! Release all your stress in our Mind Muscle Club gym, share your thoughts with <span class="NeueMachina">talking bench Bruno, design your own robot friend</span>, and many more to discover!
 </p>
-<p class="card-text open-sans">
+<p class="card-text NeueMachina">
 See you soon at
 </p>
-<h4 class="card-text NeueMachina">
+<h4 class="card-text NeueMachina-h4">
 DREAM. DISCOVER. DESIGN. 
 </h4>
 <p class="card-text open-sans">
@@ -42,7 +45,7 @@ Open daily 11:00 – 18:00, no ticket needed
     <h3 class="card-title NeueMachina-h3">What is your dream for the future?</h3>
     <p class="card-text open-sans">
 A world inequality does not exist? Where we don’t have fossil fuels anymore? Or where robots take over?<br>
-Become part of an artwork at our DREAM. DISCOVER. DESIGN. exhibition at Dutch Design Week! Fill in your dream here and check it at from 21 – 29 October 2023 at Area51 basement
+<span class="NeueMachina">Become part of an artwork</span> at our DREAM. DISCOVER. DESIGN. exhibition at Dutch Design Week! <span class="NeueMachina">Fill in your dream</span> here and check it at from 21 – 29 October 2023 at Area51 basement
 </p>
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSfdc1unbcgQZHS4Lb-pI-a1Q9STDNdGm39bc_eG18JwBc5DZA/formResponse" method="POST">
@@ -53,21 +56,21 @@ Become part of an artwork at our DREAM. DISCOVER. DESIGN. exhibition at Dutch De
             </div>
         </div>
         <p class="open-sans"><i>Leave your name and email address to update you about our exhibition</i></p>
-        <div class="form-group  bg-white">
+        <div class="form-group">
             <!-- <label>Name:</label><br> -->
-            <input class="form-control bg-white text-center" name="entry.1065905976" required type="text" placeholder="Fill in your first name" />
+            <input class="form-control text-center" name="entry.1065905976" required type="text" placeholder="Fill in your first name" style="background-color: white"/>
         </div>
-        <div class="form-group  bg-white">
+        <div class="form-group">
             <!-- <label>Name:</label><br> -->
-            <input class="form-control bg-white text-center" name="entry.1327196650" required type="text" placeholder="Fill in your last name" />
+            <input class="form-control text-center" name="entry.1327196650" required type="text" placeholder="Fill in your last name" style="background-color: white"/>
         </div>
-        <div class="form-group  bg-white">
+        <div class="form-group">
             <!-- <label>Email:</label><br> -->
-            <input class="form-control bg-white text-center" name="entry.1561828014" required type="text" placeholder="Fill in your email address here"/>
+            <input class="form-control text-center" name="entry.1561828014" required type="text" placeholder="Fill in your email address here" style="background-color: white"/>
         </div>
         <p class="open-sans"><i>*By submitting you consent to receiving updates about this exhibition in the future
 </i></p>
-        <input type="submit" value="SUBMIT" class="btn btn-primary">
+        <input type="submit" value="SUBMIT" class="btn btn-primary NeueMachina">
         <!-- <h3>SEE YOU SOON!</h3> -->
     </form>
   </div>
@@ -78,34 +81,12 @@ Become part of an artwork at our DREAM. DISCOVER. DESIGN. exhibition at Dutch De
   <div class="card-body">
     <h3 class="card-title NeueMachina-h3" style="color: white;">Win Free tickets!</h3>
     <p class="card-text open-sans" style="color: white;">
-We give away free tickets for Dutch Design Week! Sign up  before 8th of October 2023 and we let you know on the 11th of October if you’re lucky!
+We give away free tickets for Dutch Design Week! Sign up  before <span class="NeueMachina">8th of October 2023</span> and we let you know on the 11th of October if you’re lucky!
 </p>
 
 <a
- href="/freeticket" class="btn btn-primary btn-lg active  open-sans" role="button" aria-pressed="true">SIGN ME UP!
+ href="/freeticket" class="btn btn-primary btn-lg active  NeueMachina" role="button" aria-pressed="true">SIGN ME UP!
 </a>
   </div>
 </div>
 <br>
-
-<!-- <div class="container text-center">
-    <form action="https://docs.google.com/forms/d/e/1FAIpQLSfdc1unbcgQZHS4Lb-pI-a1Q9STDNdGm39bc_eG18JwBc5DZA/formResponse" method="POST">
-        <div class="item">
-            <label for="freeform">I am dreaming of a world with...</label>
-            <br>
-            <textarea id="freeform" placeholder="I am dreaming of a world with …" name="entry.611985276" required rows="4" cols="50" >
-            </textarea><br>
-        </div>
-        <p>Leave your  name and email address to update you about our exhibition</p>
-        <div class="item">
-            <label>Name:</label><br>
-            <input name="entry.1065905976" required type="text" placeholder="Fill in your full name" />
-        </div>
-        <div class="item">
-            <label>Email:</label><br>
-            <input name="entry.1561828014" required type="text" placeholder="Fill in your email address here"/>
-        </div><br>
-        <input type="submit" value="Submit" class="btn btn-primary">
-        <h3>SEE YOU SOON!</h3>
-    </form>
-</div> -->
