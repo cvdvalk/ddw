@@ -80,7 +80,7 @@ Een wereld waar ongelijkheid niet bestaat? Waar geen fossiele brandstof meer is?
             <!-- <label>Email:</label><br> -->
             <input class="form-control text-center" name="entry.1561828014" required type="text" placeholder="Vul je emailadres in" style="background-color: white"/>
         </div>
-        <p class="open-sans"><i>*Door dit formulier in te vullen geef ik toestemming on informatie over de expositie te ontvangen in de toekomst
+        <p class="open-sans"><i>*Door dit formulier in te vullen geef ik toestemming om informatie over de expositie te ontvangen in de toekomst
 </i></p>
         <input type="submit" value="VOEG TOE" class="btn btn-primary NeueMachina">
         <!-- <h3>SEE YOU SOON!</h3> -->
