@@ -6,7 +6,8 @@ name: true
 title: false
 header_type: image
 # subtitle: Dutch Design Week
-header_img: assets/img/TUdelft-EmailBanners-ENG-03.png
+# header_img: assets/img/TUdelft-EmailBanners-ENG.png
+header_img: assets/img/TUdelft-EmailBanners-ENGtrans.png
 
 ---
 <div class="card shadow videoWrapper">
@@ -18,7 +19,7 @@ header_img: assets/img/TUdelft-EmailBanners-ENG-03.png
   <div class="card-body">
     <h3 class="card-title NeueMachina-h3">How would you design<br> the perfect world?</h3>
     <p class="card-text open-sans">
-Designers from <a href="https://www.tudelft.nl/ide" target="_blank"><u class="NeueMachina">TU Delft Industrial Design Engineering</u></a> invite you to come explore their futuristic dream worlds in our <span class="NeueMachina">immersive experience</span> at Dutch Design Week 2023. Expect to <span class="NeueMachina">be surprised</span> by their interactive installations, that make you wonder how we can redesign for a better society: Where products are truly sustainable, people are equal and really happy, and where technology instead of dividing us, connects us. 
+Designers from <a href="https://www.tudelft.nl/ide" target="_blank"><u class="NeueMachina">TU Delft Industrial Design Engineering</u></a> invite you to come explore their futuristic dream worlds in our <span class="NeueMachina">immersive experience at Dutch Design Week 2023.</span> Expect to <span class="NeueMachina">be surprised</span> by their interactive installations, that make you wonder how we can redesign for a better society: Where products are truly sustainable, people are equal and really happy, and where technology instead of dividing us, connects us. 
 </p>
 
 <p class="card-text open-sans">
@@ -42,7 +43,7 @@ Open daily 11:00 – 18:00, no ticket needed
 
 <div class="card shadow text-center orange-card">
   <div class="card-body">
-    <h3 class="card-title NeueMachina-h3">What is your dream for the future?</h3>
+    <h3 class="card-title NeueMachina-h3">What is your dream<br> for the future?</h3>
     <p class="card-text open-sans">
 A world inequality does not exist? Where we don’t have fossil fuels anymore? Or where robots take over?<br>
 <span class="NeueMachina">Become part of an artwork</span> at our DREAM. DISCOVER. DESIGN. exhibition at Dutch Design Week! <span class="NeueMachina">Fill in your dream</span> here and check it at from 21 – 29 October 2023 at Area51 basement
@@ -55,7 +56,7 @@ A world inequality does not exist? Where we don’t have fossil fuels anymore? O
 <textarea id="freeform"  class="text-center" name="entry.611985276" required rows="4" style="min-width: 100%" placeholder="I am dreaming of a world with …"></textarea>
             </div>
         </div>
-        <p class="open-sans"><i>Leave your name and email address to update you about our exhibition</i></p>
+        <p class="open-sans"><i>Leave your name and email address to update you about our exhibition*</i></p>
         <div class="form-group">
             <!-- <label>Name:</label><br> -->
             <input class="form-control text-center" name="entry.1065905976" required type="text" placeholder="Fill in your first name" style="background-color: white"/>

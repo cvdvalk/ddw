@@ -3,7 +3,8 @@ layout: default
 title: Dutch Design Week
 header_type: image
 subtitle: Free Ticket
-header_img: assets/img/TUdelft-EmailBanners-ENG-03.png
+# header_img: assets/img/TUdelft-EmailBanners-ENG.png
+header_img: assets/img/TUdelft-EmailBanners-ENGtrans.png
 ---
 
 <div class="card shadow text-center purple-card">
@@ -46,7 +47,7 @@ Fill in this form below before <span class="NeueMachina">8th of October 2023</sp
             <!-- <label>Email:</label><br> -->
             <input class="form-control text-center" name="entry.1173874462" required type="text" placeholder="Fill in your email address here" style="background-color: white"/>
         </div>
-        <div class="form-check">
+        <div class="form-check" style="text-align: left; margin-left: 1rem;">
             <input class="form-check-input" type="checkbox" name="entry.1861519251" id="flexCheckDefault" value="I understand that by filling in this form that I agree that I can be contacted by TU Delft Industrial Design Engineering for promotional purposes">
             <label class="form-check-label NeueMachina" for="flexCheckDefault">I understand that by filling in this form that I agree that I can be contacted by TU Delft Industrial Design Engineering for promotional purposes</label>
         </div><br>

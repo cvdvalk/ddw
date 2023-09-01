@@ -3,7 +3,8 @@ layout: default
 title: Dutch Design Week Alumni
 header_type: image
 subtitle: Alumni
-header_img: assets/img/TUdelft-EmailBanners-ENG-03.png
+# header_img: assets/img/TUdelft-EmailBanners-ENG.png
+header_img: assets/img/TUdelft-EmailBanners-ENGtrans.png
 ---
 
 <div class="card shadow text-center white-card">
@@ -15,15 +16,15 @@ Besides our amazing exhibition, we have put together a <span class="NeueMachina"
 </p>
 
 <p class="card-text open-sans">
-<span class="NeueMachina">THURSDAY 26th OF OCTOBER – ALUMNI EVENTS</span><br>
+<span class="NeueMachina">THURSDAY 26th OF OCTOBER – ALUMNI EVENTS</span><br><br>
 <b>11:00 – 11:30</b><br> 
 Meet fellow IDE alumni with cake<br>
-(at entrance Area51, Ketelhuisplein)<br>
+(at entrance Area51, Ketelhuisplein)<br><br>
 <b>16:00 – 18:30*</b><br>
 Talk Design with dean Caspar Chorus & drinks<br> 
 (at first floor Area51, Ketelhuisplein)<br>
 <i>*Note: This event has limited spots and will be chosen via lottery system</i>
-</p>
+</p><br>
 
 <p class="card-text open-sans">
 Register for the events in this form <span class="NeueMachina">before 12th of October 2023.</span> For any questions contact <a href="mailto:ddw2023-IO@tudelft.nl"><u>ddw2023-IO@tudelft.nl</u></a>. We hope to see you soon!
@@ -54,9 +55,9 @@ Register for the events in this form <span class="NeueMachina">before 12th of Oc
         <div class="form-group">
             <!-- <label>Email:</label><br> -->
             <input class="form-control text-center" name="entry.522338935" required type="text" placeholder="Fill in your email address here" style="background-color: white"/>
-        </div>
-        <p class="NeueMachina"> I like to participate in the following activities:</p>
-            <div class="form-check container">
+        </div><br>
+        <p class="NeueMachina" style="text-align: left;margin-left: 1rem;"> I like to participate in the following activities:</p>
+            <div class="form-check container" style="margin-left: 1rem;">
                 <div class="row">
                     <div class="col-1">
                         <input class="form-check-input" type="checkbox" name="entry.1492064288" id="flexCheckDefault" value="Meet fellow alumni" style="float:left">
@@ -67,7 +68,7 @@ Register for the events in this form <span class="NeueMachina">before 12th of Oc
                     </div>
                 </div>
             </div><br>
-            <div class="form-check container">
+            <div class="form-check container" style="margin-left: 1rem;">
                 <div class="row">
                     <div class="col-1">
                         <input class="form-check-input" type="checkbox" name="entry.2103202976" id="flexCheckDefault2" value="Talk Design with dean" style="float:left">
@@ -77,16 +78,16 @@ Register for the events in this form <span class="NeueMachina">before 12th of Oc
                     <span class="open-sans">(16:00 – 18:30 at first floor Area51, Ketelhuisplein)</span></label>
                     </div> 
                 </div>
-            </div><br>
-        <p class="NeueMachina">Are you participating at Dutch Design Week 2023 with an exhibition/studio/activity? Tell us when, where and what you are going to do!</p>
+            </div><br><br>
+        <p class="NeueMachina" style="text-align: left; margin-left: 1rem;">Are you participating at Dutch Design Week 2023 with an exhibition/studio/activity? Tell us when, where and what you are going to do!</p>
          <div class="form-row align-items-center">
             <div class="col">
             <textarea id="freeform"  class="text-center" name="entry.273498716" rows="4" style="min-width: 100%" placeholder="I’ll be participating DDW2023 with…"></textarea>
             </div>
         </div>
-        <div class="form-check">
+        <div class="form-check" style="margin-left: 1rem;">
             <input class="form-check-input" type="checkbox" required  name="entry.148978797" id="flexCheckDefault3" value="I understand">
-            <label class="form-check-label open-sans" for="flexCheckDefault3"><i>I understand that by filling in this form that I agree that I can be contacted by TU Delft Industrial Design Engineering for updates</i></label>
+            <label class="form-check-label open-sans" for="flexCheckDefault3" style="text-align: left;"><i>I understand that by filling in this form that I agree that I can be contacted by TU Delft Industrial Design Engineering for updates</i></label>
         </div><br>
         <input type="submit" value="SUBMIT" class="btn btn-primary">
     </form>
