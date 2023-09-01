@@ -86,3 +86,38 @@
 .form-group {
   background-color: white;
 }
+
+.text-center chulapa-header-image mw-100{
+  height: auto;
+}
+
+@media (min-width: 992px) {
+  .chulapa-header-image {
+      /* height:25vh; */height: auto;
+  }
+}
+
+.card-text {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+// .form-control,#ch-cusdis input,#ch-cusdis textarea,#welcomments__container input,#welcomments__container textarea {
+//   font-style: italic;
+// }
+
+// textarea {
+//   font-style: italic;
+// }
+
+::-webkit-input-placeholder {
+  font-style: italic;
+}
+:-moz-placeholder {
+  font-style: italic;  
+}
+::-moz-placeholder {
+  font-style: italic;  
+}
+:-ms-input-placeholder {  
+  font-style: italic; 
+}

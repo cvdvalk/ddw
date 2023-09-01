@@ -3,7 +3,7 @@ layout: default
 title: Dutch Design Week Alumni
 header_type: image
 subtitle: Alumni
-header_img: assets/img/TUdelft-EmailBanners-06.png
+header_img: assets/img/TUdelft-EmailBanners-ENG-03.png
 ---
 
 <div class="card shadow text-center white-card">
@@ -61,8 +61,9 @@ Register for the events in this form <span class="NeueMachina">before 12th of Oc
                     <div class="col-1">
                         <input class="form-check-input" type="checkbox" name="entry.1492064288" id="flexCheckDefault" value="Meet fellow alumni" style="float:left">
                     </div>
-                    <div class="col">
-                        <label class="form-check-label NeueMachina" for="flexCheckDefault">Meet fellow alumni with cake <br>(11:00 – 11:30 at entrance Area51, Ketelhuisplein)</label>
+                    <div class="col" style="text-align: left;">
+                        <label class="form-check-label NeueMachina" for="flexCheckDefault" style="text-align: left">Meet fellow alumni with cake <br>
+                        <span class="open-sans">(11:00 – 11:30 at entrance Area51, Ketelhuisplein)</span></label>
                     </div>
                 </div>
             </div><br>
@@ -71,9 +72,10 @@ Register for the events in this form <span class="NeueMachina">before 12th of Oc
                     <div class="col-1">
                         <input class="form-check-input" type="checkbox" name="entry.2103202976" id="flexCheckDefault2" value="Talk Design with dean" style="float:left">
                     </div>
-                    <div class="col">
-                    <label class="form-check-label NeueMachina" for="flexCheckDefault2">Talk Design with dean Caspar Chorus & drinks <br>(16:00 – 18:30 at first floor Area51, Ketelhuisplein)</label>
-                    </div>
+                    <div class="col" style="text-align: left;">
+                    <label class="form-check-label NeueMachina" for="flexCheckDefault2">Talk Design with dean Caspar Chorus & drinks <br>
+                    <span class="open-sans">(16:00 – 18:30 at first floor Area51, Ketelhuisplein)</span></label>
+                    </div> 
                 </div>
             </div><br>
         <p class="NeueMachina">Are you participating at Dutch Design Week 2023 with an exhibition/studio/activity? Tell us when, where and what you are going to do!</p>

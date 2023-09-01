@@ -102,7 +102,7 @@ navbar:
       - title: English
         url: /
       - title: Nederlands
-        url: /nl
+        url: /nl/
 #Social links to be placed on your site footer
 footer:
   links:

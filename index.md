@@ -6,17 +6,17 @@ name: true
 title: false
 header_type: image
 # subtitle: Dutch Design Week
-header_img: assets/img/TUdelft-EmailBanners-06.png
+header_img: assets/img/TUdelft-EmailBanners-ENG-03.png
 
 ---
 <div class="card shadow videoWrapper">
-<iframe width="720" height="299" src="https://www.youtube.com/embed/vRj83QN3yKI" title="TU Delft - BSc Industrieel Ontwerpen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="299" src="https://www.youtube.com/embed/-Cq_jbJ-F7Q" title="DREAM. DISCOVER. DESIGN. - TU Delft Industrial Design Engineering at Dutch Design Week 2023 (teaser)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>  
 <br>
 
 <div class="card shadow text-center white-card">
   <div class="card-body">
-    <h3 class="card-title NeueMachina-h3">How would you design the perfect world?</h3>
+    <h3 class="card-title NeueMachina-h3">How would you design<br> the perfect world?</h3>
     <p class="card-text open-sans">
 Designers from <a href="https://www.tudelft.nl/ide" target="_blank"><u class="NeueMachina">TU Delft Industrial Design Engineering</u></a> invite you to come explore their futuristic dream worlds in our <span class="NeueMachina">immersive experience</span> at Dutch Design Week 2023. Expect to <span class="NeueMachina">be surprised</span> by their interactive installations, that make you wonder how we can redesign for a better society: Where products are truly sustainable, people are equal and really happy, and where technology instead of dividing us, connects us. 
 </p>
@@ -79,7 +79,7 @@ A world inequality does not exist? Where we don’t have fossil fuels anymore? O
 
 <div class="card shadow text-center purple-card">
   <div class="card-body">
-    <h3 class="card-title NeueMachina-h3" style="color: white;">Win Free tickets!</h3>
+    <h3 class="card-title NeueMachina-h3" style="color: white;">Win FREE tickets!</h3>
     <p class="card-text open-sans" style="color: white;">
 We give away free tickets for Dutch Design Week! Sign up  before <span class="NeueMachina">8th of October 2023</span> and we let you know on the 11th of October if you’re lucky!
 </p>
