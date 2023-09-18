@@ -105,9 +105,9 @@ header_img: assets/img/TUdelft-EmailBanners-ENGtrans.png
     <div class="card">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
       <div class="card-body">
-        <h5 class="card-title">Coloured Realisties</h5>
+        <h5 class="card-title">The Personal Press</h5>
         <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/coloured-realities" class="btn btn-primary">Read more here</a>
+        <a href="/the-personal-press" class="btn btn-primary">Read more here</a>
       </div>
     </div>
     <div class="card" id="filler-card" style="background-color: transparent; border-block-color: transparent; border: none !important;">

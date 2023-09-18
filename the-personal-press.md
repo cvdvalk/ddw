@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Coloured Realities
+title: The Personal Press
 header_type: image
 # subtitle: Alumni
 # header_img: assets/img/TUdelft-EmailBanners-ENG.png
 header_img: assets/img/TUdelft-EmailBanners-ENGtrans.png
 ---
 
-# Coloured Realities
+# The Personal Press
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed hendrerit libero. Morbi ultricies dui quis pulvinar volutpat. Maecenas sed gravida leo. Nulla semper leo in nibh faucibus tempor. Donec nec sem ac nisi blandit ultrices ac quis enim. Duis id eros quis enim gravida fermentum. Nulla vitae finibus dui. Etiam id augue magna. Aenean in felis auctor elit fringilla volutpat vitae quis orci. Nullam a sodales nisi.  
 
