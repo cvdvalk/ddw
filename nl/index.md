@@ -88,17 +88,3 @@ Een wereld waar ongelijkheid niet bestaat? Waar geen fossiele brandstof meer is?
   </div>
 </div>
 <br>
-
-<div class="card shadow text-center purple-card">
-  <div class="card-body">
-    <h3 class="card-title NeueMachina-h3" style="color: white;">Win vrijkaartjes!</h3>
-    <p class="card-text open-sans" style="color: white;">
-We geven vrijkaarten weg voor Dutch Design Week!  Meld je aan voor <span class="NeueMachina">8 oktober 2023</span> en we laten je op 11 oktober 2023 weten of je hebt gewonnen!
-</p>
-
-<a
- href="/nl/freeticket" class="btn btn-primary btn-lg active  NeueMachina" role="button" aria-pressed="true">AANMELDEN
-</a>
-  </div>
-</div>
-<br>

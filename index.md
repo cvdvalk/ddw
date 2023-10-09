@@ -78,16 +78,3 @@ A world inequality does not exist? Where we don’t have fossil fuels anymore? O
 </div>
 <br>
 
-<div class="card shadow text-center purple-card">
-  <div class="card-body">
-    <h3 class="card-title NeueMachina-h3" style="color: white;">Win FREE tickets!</h3>
-    <p class="card-text open-sans" style="color: white;">
-We give away free tickets for Dutch Design Week! Sign up  before <span class="NeueMachina">8th of October 2023</span> and we let you know on the 11th of October if you’re lucky!
-</p>
-
-<a
- href="/freeticket" class="btn btn-primary btn-lg active  NeueMachina" role="button" aria-pressed="true">SIGN ME UP!
-</a>
-  </div>
-</div>
-<br>
