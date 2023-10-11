@@ -40,13 +40,7 @@ Open daily 11:00 – 18:00, no ticket needed
 </div>
 <br>
 
-<div class="card text-center white-card">
-  <div class="card-body">
-    <h3 class="card-title">WELCOME TO DREAM. DISCOVER. DESIGN. </h3>
-    <p class="card-text">WHAT IS DREAM. DISCOVER. DESIGN. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum  + collaboration with partners </p>
-  </div>
-</div>
-<br>
+
 
 <!-- <div class="card text-center white-card">
   <div class="card-body">
@@ -58,15 +52,18 @@ Open daily 11:00 – 18:00, no ticket needed
 </div>
 <br> -->
 
-<div class="card" style="margin-bottom:1rem;">
-<h3 class="card-title text-center">DISCOVER THE WORLD OF TU DELFT INDUSTRIAL DESIGN VIA OUR INSTALLATIONS</h3>
+<div class="card shadow white-default-card" style="margin-bottom:1rem;">
+  <div class="card-body">
+<h3 class="card-title NeueMachina-h3 text-center">Discover the world of<br> TU Delft Designers<br> via our installations</h3>
+<br>
 <div class="card-deck">
 <div class="card toast-card" style="margin-left:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Toasty Maker</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/toasty-maker" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Speculative <br>Toastie Maker</b></p>
+        <p class="card-text" style="margin-left:0rem;margin-bottom:0rem;"> Chris Vooren’s ongoing master's graduation project aims to develop an approach to design products with enhanced durability. This research doesn't …</p>
+        <br>
+          <a href="/toasty-maker" class="btn btn-primary NeueMachina">READ MORE</a>
       </div>
   </div>
     <div class="card bruno-card" style="margin-bottom:1rem;">
@@ -77,15 +74,16 @@ Open daily 11:00 – 18:00, no ticket needed
         <a href="/bruno-the-bench" class="btn btn-primary">Read more here</a>
       </div>
     </div>
-    <div class="card bias-card" style="margin-right:2rem;margin-bottom:1rem;">
+    <!-- <div class="card bias-card" style="margin-right:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
       <div class="card-body">
         <h5 class="card-title">Unconscious Bias</h5>
         <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
         <a href="/unconscious-bias" class="btn btn-primary">Read more here</a>
       </div>
-    </div>
+    </div> -->
   </div>
+
 
 <br>
 
@@ -137,20 +135,11 @@ Open daily 11:00 – 18:00, no ticket needed
     <div class="card" id="filler-card" style="background-color: transparent; border-block-color: transparent; border: none !important;margin-right:2rem;margin-bottom:1rem;">
     </div>
   </div>
+    </div>
 <br>
   </div>
 
-<div class="card text-center  white-card">
-  <div class="card-body">
-    <h3 class="card-title">HOW WILL YOU DESIGN YOUR FUTURE?</h3>
-    <p class="card-text">People filled in their take on the future. Watch the development</p>
-  </div>
-  <img class="card-img-bottom" src="https://placehold.co/720x300" alt="Card image cap"  style="margin-bottom: 0.5rem;">
-  <br>
-</div>
-<br>
-
-<div class="card text-center  blue-card">
+<div class="card text-center  blue-card shadow">
   <div class="card-body">
     <h5 class="card-title NeueMachina-h4" style="color:white;">WANT TO KNOW MORE ABOUT TU DELFT AND STUDYING HERE?</h5>
     <a href="https://www.tudelft.nl/en/education/practical-matters/studying-at-tu-delft" class="btn btn-primary NeueMachina">YES PLEASE!</a>
