@@ -14,120 +14,134 @@ header_img: assets/img/TUdelft-EmailBanners-ENGtrans.png
 <iframe width="720" height="299" src="https://www.youtube.com/embed/-Cq_jbJ-F7Q" title="DREAM. DISCOVER. DESIGN. - TU Delft Industrial Design Engineering at Dutch Design Week 2023 (teaser)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>  
 <br>
-
-<div class="card text-center white-card">
+<div class="card shadow text-center white-card">
   <div class="card-body">
-    <h3 class="card-title">WELCOME TO DREAM. DISCOVER. DESIGN. </h3>
-    <p class="card-text">WHAT IS DREAM. DISCOVER. DESIGN. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum  + collaboration with partners </p>
+    <h3 class="card-title NeueMachina-h3">Hoe zou jij jouw perfecte wereld ontwerpen?
+</h3>
+    <p class="card-text open-sans">
+Designers van <a href="https://www.tudelft.nl/io" target="_blank"><u class="NeueMachina">TU Delft Industrieel Ontwerpen</u></a> 
+
+nodigen jou uit om hun futuristische droomwerelden te ontdekken in onze 
+<span class="NeueMachina">immersive experience voor Dutch Design Week</span>. 
+Laat je  <span class="NeueMachina">verrassen</span> door hun interactieve installaties, die je doen nadenken hoe we onze wereld kunnen herontwerpen voor een betere maatschappij: 
+Waarin producten echt duurzaam zijn, waar mensen gelijk en heel erg gelukkig zijn, en waar technologie in plaats van ons verdeelt, ons verbindt. 
+</p>
+
+<p class="card-text open-sans">
+Er is voor ieder wat wils! 
+Ontstress in onze Mind Muscle Club gym, deel je gedachtes met <span class="NeueMachina">pratende bank Bruno, maak jou eigen robot BFF,</span> en ontdek nog veel meer!
+
+</p>
+<p class="card-text NeueMachina">
+We zien je snel bij
+</p>
+<h4 class="card-text NeueMachina-h4">
+DREAM. DISCOVER. DESIGN. 
+</h4>
+<p class="card-text open-sans">
+TU Delft Industrieel Ontwerpen expositie<br>
+voor Dutch Design Week (21 – 29 oktober 2023)<br>
+Area51 kelder, Ketelhuisplein Eindhoven<br>
+Elke dag van11:00 – 18:00, geen ticket nodig
+
+</p>
   </div>
 </div>
 <br>
 
-<div class="card text-center white-card">
+<div class="card shadow white-default-card" style="margin-bottom:1rem;">
   <div class="card-body">
-    <h3 class="card-title">WHAT ARE YOU DREAMING ABOUT? </h3>
-    <p class="card-text">People filled in their dreams, see here development</p>
-  </div>
-  <img class="card-img-bottom" src="https://placehold.co/720x300" alt="Card image cap" style="margin-bottom: 0.5rem;">
-  <br>
-</div>
+<h3 class="card-title NeueMachina-h3 text-center">Discover the world of<br> TU Delft Designers<br> via our installations</h3>
 <br>
-
-<div align="center">
-<h3>DISCOVER THE WORLD OF TU DELFT INDUSTRIAL DESIGN VIA OUR INSTALLATIONS</h3>
-</div>
-
 <div class="card-deck">
-    <div class="card">
+<div class="card toast-card" style="margin-left:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Bruno The Bench</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/nl/bruno-the-bench" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Speculative <br>Toastie Maker</b></p>
+        <p class="card-text" style="margin-left:0rem;margin-bottom:0rem;"> In dit lopende afstudeerproject voor het masterproject van student Chris Vooren ontwikkelt zij een benadering om producten te ontwerpen die …</p>
+        <br>
+          <a href="/nl/toasty-maker" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
-    </div>
-    <div class="card">
+  </div>
+    <div class="card bruno-card" style="margin-right:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Unconscious Bias</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/nl/unconscious-bias" class="btn btn-primary">Read more here</a>
-      </div>
-    </div>
-    <div class="card">
-    <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">M-I-K-E</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/nl/m-i-k-e" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Bruno<br> The Bench</b></p>
+        <p class="card-text"> Slechts een klein groepje mensen heeft de macht om de stad vorm te geven. Ondanks dat stadsmakers burgers proberen te …</p>
+        <a href="/nl/bruno-the-bench" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
     </div>
   </div>
-<br>
 
-<div class="card-deck">
-    <div class="card">
-    <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Toasty Maker</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/nl/toasty-maker" class="btn btn-primary">Read more here</a>
-      </div>
-  </div>
-    <div class="card">
-    <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Mind Muscle Club</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/nl/mind-muscle-club" class="btn btn-primary">Read more here</a>
-      </div>
-    </div>
-    <div class="card">
-    <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Personal Companion POS</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/nl/personal-companion-pos" class="btn btn-primary">Read more here</a>
-      </div>
-    </div>
-  </div>
+
 <br>
 
 <div class="card-deck">
-    <div class="card">
+<div class="card bias-card" style="margin-left:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Conversation Game</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/nl/conversation-game" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Unconscious Bias</b></p>
+        <p class="card-text"> Deze installatie houdt de samenleving een vernieuwende en verfrissende spiegel voor. Bij deze studenten is het centrale thema buitensluiting in …</p>
+        <a href="/nl/unconscious-bias" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
-  </div>
-    <div class="card">
+    </div> 
+    <div class="card mike-card" style="margin-right:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">The Personal Press</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/nl/the-personal-press" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>M-I-K-E</b></p>
+        <p class="card-text"> In een steeds meer verstedelijkte en technologische wereld, waar de natuur (voornamelijk door menselijke inmenging) verdwijnt, is het belangrijk om …</p>
+        <a href="/nl/m-i-k-e" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
     </div>
-    <div class="card" id="filler-card" style="background-color: transparent; border-block-color: transparent; border: none !important;">
-    </div>
+
   </div>
 <br>
 
-<div class="card text-center  white-card">
-  <div class="card-body">
-    <h3 class="card-title">HOW WILL YOU DESIGN YOUR FUTURE?</h3>
-    <p class="card-text">People filled in their take on the future. Watch the development</p>
+<div class="card-deck">
+    <div class="card press-card" style="margin-left:2rem;margin-bottom:1rem;">
+    <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>The Personal Press</b></p>
+        <p class="card-text"> Nieuwsmedia bepalen voor een groot deel ons wereldbeeld. Woorden bepalen eigenlijk het perspectief van een onderwerp. Dit zien we terug …</p>
+        <a href="/nl/the-personal-press" class="btn btn-primary NeueMachina">LEES VERDER</a>
+      </div>
+    </div>
+    <div class="card pos-card" style="margin-right:2rem;margin-bottom:1rem;">
+    <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Personal Companion POS</b></p>
+        <p class="card-text"> Tegen 2030 domineert het Abonnement-tijdperk, waarbij de traditionele waarde van eigendom werd verdrongen ten gunste van wegwerpbaarheid en gemak. Het huren van …</p>
+        <a href="/nl/personal-companion-pos" class="btn btn-primary NeueMachina">LEES VERDER</a>
+      </div>
+    </div>
   </div>
-  <img class="card-img-bottom" src="https://placehold.co/720x300" alt="Card image cap"  style="margin-bottom: 0.5rem;">
-  <br>
+
+<br>
+<div class="card-deck">
+<div class="card muscle-card" style="margin-left:2rem;margin-bottom:1rem;">
+    <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Mind Muscle Club</b></p>
+        <p class="card-text"> Mind Muscle Club is een baanbrekend idee dat de manier waarop we denken over mentale gezondheid herontwerpt. Het is een …</p>
+        <a href="/nl/mind-muscle-club" class="btn btn-primary NeueMachina">LEES VERDER</a>
+      </div>
+    </div>
+    <div class="card conv-card" style="margin-right:2rem;margin-bottom:1rem;">
+    <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Conversation Game</b></p>
+        <p class="card-text"> In een samenleving die meer dan ooit geobsedeerd is met het verbeteren van onze mentale gezondheid, duiden stijgende diagnoses op …</p>
+        <a href="/nl/conversation-game" class="btn btn-primary NeueMachina">LEES VERDER</a>
+      </div>
+  </div>
 </div>
-<br>
+    </div>
+  </div>
 
-<div class="card text-center  white-card">
+
+<div class="card text-center  blue-card shadow">
   <div class="card-body">
-    <h5 class="card-title">WANT TO KNOW MORE ABOUT TU DELFT AND STUDYING HERE?</h5>
-    <a href="https://www.tudelft.nl/onderwijs/praktische-zaken/voorzieningen" class="btn btn-primary">Read more here</a>
+    <h5 class="card-title NeueMachina-h4" style="color:white;">MEER WETEN OVER DE TU DELFT EN HIER STUDEREN?</h5>
+    <a href="https://www.tudelft.nl/onderwijs/praktische-zaken/voorzieningen" class="btn btn-primary NeueMachina">JAZEKER!</a>
   </div>
 </div>

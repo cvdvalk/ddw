@@ -109,7 +109,7 @@ footer:
     - label : Repo on Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
       url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-  title: The DREAM. DISCOVER. DESIGN. exhibition is created by TU Delft Industrial Design Engineering. For questions contact ddw2023-IO@tudelft.nl.  
+  title: The DREAM. DISCOVER. DESIGN. exhibition is created by TU Delft Industrial Design Engineering. For questions contact communication-io@tudelft.nl. 
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings

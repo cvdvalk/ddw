@@ -26,7 +26,11 @@ Today, only a select few hold the power in urban planning. A large number of cit
 
 Bruno the Bench is part of a platform that solves this accessibility problem. Urban objects such as rubbish bins and traffic lights are brought to life, engaging citizens in conversations about their neighbourhoods, with their neighbourhoods. They can share their opinions and ideas on the physical and social aspects of the neighbourhood where the object is located. The objects in turn share their stories and observations. Through these conversations with the inanimate, people foster empathy and a deeper understanding of how their surroundings look and behave which strengthens their bond with the environment, its people, its space and its ‘things’.  <br>  
 <br>
-Through the platform, urban planners can stay connected to citizens' stories and their needs. It collects all the conversations that citizens have with objects like Bruno. By actively listening and incorporating the narratives that are picked up by objects around the city, urban planners can in turn create more inclusive and responsive spaces. Bruno is a small part of a giant web that functions as a mediator for creating a collective vision for the future city.
+Through the platform, urban planners can stay connected to citizens' stories and their needs. It collects all
+the conversations that citizens have with objects like Bruno. By actively listening and incorporating the
+narratives that are picked up by objects around the city, urban planners can in turn create more inclusive
+and responsive spaces. Bruno is a small part of a giant web that functions as a mediator for creating a
+collective vision for the future city.
   </div>
 </div>
 </div>
@@ -67,7 +71,16 @@ We are Virginia Facciotto (1999), Rijk Roozenbeek (2000), Valentina Guadagno (19
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">What we do at TU Delft<br> Industrial Design Engineering?</h3>
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
-How do we create cities that are more liveable, healthy, sustainable and welcoming for all? These are some of the questions occupying Delft Design researchers involved in urban planning including Assistant Professor Achilleas Psyllidis who uses data to tune into the way people use the urban environment. His city maps and other tools help identify and prioritise the ways in which we can design a better environment. Meanwhile Assistant Professor Rebecca Price is collaborating with the municipality of Rotterdam and researchers from TU Delft’s Faculty of Architecture and the Built Environment and on the T-Roffa Lab project. Using a mobile forest, the research team is investigating how the urban environment can be developed together with citizens and how cities can be made more climate-resistant via the cooling power of trees.
+How do we create cities that are more liveable, healthy, sustainable and welcoming for
+all? These are some of the questions occupying Delft Design researchers involved in
+urban planning including <a href="https://www.youtube.com/watch?v=co3q_DAEt1E"><u>Assistant Professor Achilleas Psyllidis</u></a> who uses data to tune
+into the way people use the urban environment. His city maps and other tools help
+identify and prioritise the ways in which we can design a better environment.
+<br><br> Meanwhile <a href="https://www.tudelft.nl/io/over-io/personen/price-ra#:~:text=Rebecca%2520Anne%2520Price%2520is%2520a,multi%252Dleveled%2520and%2520networked%2520innovation."><u>Assistant Professor Rebecca Price</u></a> is collaborating with the municipality of Rotterdam and
+researchers from TU Delft’s Faculty of Architecture and the Built Environment and on
+the <a href="https://www.tudelft.nl/en/2023/io/june/mobile-forest-project-aims-to-green-the-city-together-with-citizens"><u>T-Roffa Lab-project</u></a>. Using a mobile forest, the research team is investigating how
+the urban environment can be developed together with citizens and how cities can be
+made more climate-resistant via the cooling power of trees.
   </div>
 </div>
 </div>

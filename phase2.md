@@ -40,18 +40,6 @@ Open daily 11:00 – 18:00, no ticket needed
 </div>
 <br>
 
-
-
-<!-- <div class="card text-center white-card">
-  <div class="card-body">
-    <h3 class="card-title">WHAT ARE YOU DREAMING ABOUT? </h3>
-    <p class="card-text">People filled in their dreams, see here development</p>
-  </div>
-  <img class="card-img-bottom" src="https://placehold.co/720x300" alt="Card image cap" style="margin-bottom: 0.5rem;">
-  <br>
-</div>
-<br> -->
-
 <div class="card shadow white-default-card" style="margin-bottom:1rem;">
   <div class="card-body">
 <h3 class="card-title NeueMachina-h3 text-center">Discover the world of<br> TU Delft Designers<br> via our installations</h3>
@@ -66,78 +54,81 @@ Open daily 11:00 – 18:00, no ticket needed
           <a href="/toasty-maker" class="btn btn-primary NeueMachina">READ MORE</a>
       </div>
   </div>
-    <div class="card bruno-card" style="margin-bottom:1rem;">
+    <div class="card bruno-card" style="margin-right:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Bruno The Bench</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/bruno-the-bench" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Bruno<br> The Bench</b></p>
+        <p class="card-text"> Today, only a select few hold the power in urban planning. A large number of citizens are excluded from the …</p>
+        <a href="/bruno-the-bench" class="btn btn-primary NeueMachina">READ MORE</a>
       </div>
     </div>
-    <!-- <div class="card bias-card" style="margin-right:2rem;margin-bottom:1rem;">
-    <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Unconscious Bias</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/unconscious-bias" class="btn btn-primary">Read more here</a>
-      </div>
-    </div> -->
   </div>
 
 
 <br>
 
 <div class="card-deck">
-    <div class="card mike-card" style="margin-left:2rem;margin-bottom:1rem;">
+<div class="card bias-card" style="margin-left:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">M-I-K-E</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/m-i-k-e" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Unconscious Bias</b></p>
+        <p class="card-text"> This installation holds up a mirror to society, with the idea of exclusion at the core. Each of us at …</p>
+        <a href="/unconscious-bias" class="btn btn-primary NeueMachina">READ MORE</a>
+      </div>
+    </div> 
+    <div class="card mike-card" style="margin-right:2rem;margin-bottom:1rem;">
+    <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>M-I-K-E</b></p>
+        <p class="card-text"> In an increasingly urbanised and high-tech world where nature is disappearing, primarily because of human activity, it is important to …</p>
+        <a href="/m-i-k-e" class="btn btn-primary NeueMachina">READ MORE</a>
       </div>
     </div>
-    <div class="card press-card" style="margin-bottom:1rem;">
+
+  </div>
+<br>
+
+<div class="card-deck">
+    <div class="card press-card" style="margin-left:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">The Personal Press</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/the-personal-press" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>The Personal Press</b></p>
+        <p class="card-text"> Right now, our individual choice of news platforms are already shaping our worldviews. Words essentially define the perception of a …</p>
+        <a href="/the-personal-press" class="btn btn-primary NeueMachina">READ MORE</a>
       </div>
     </div>
     <div class="card pos-card" style="margin-right:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Personal Companion POS</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/personal-companion-pos" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Personal Companion POS</b></p>
+        <p class="card-text"> By 2030, the Subscription Era dominated, pushing the traditional value of ownership aside in favour of disposability and convenience. While …</p>
+        <a href="/personal-companion-pos" class="btn btn-primary NeueMachina">READ MORE</a>
       </div>
     </div>
   </div>
-<br>
 
+<br>
 <div class="card-deck">
 <div class="card muscle-card" style="margin-left:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Mind Muscle Club</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/mind-muscle-club" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Mind Muscle Club</b></p>
+        <p class="card-text"> Mind Muscle Club is a welcoming and innovative place which changes how we think about mental health. It is a …</p>
+        <a href="/mind-muscle-club" class="btn btn-primary NeueMachina">READ MORE</a>
       </div>
     </div>
-    <div class="card conv-card" style="margin-bottom:1rem;">
+    <div class="card conv-card" style="margin-right:2rem;margin-bottom:1rem;">
     <img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;">
-      <div class="card-body">
-        <h5 class="card-title">Conversation Game</h5>
-        <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-        <a href="/conversation-game" class="btn btn-primary">Read more here</a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Conversation Game</b></p>
+        <p class="card-text"> In a society more obsessed than ever with improving its mental health, rising diagnoses suggest a troubling paradox. Although we …</p>
+        <a href="/conversation-game" class="btn btn-primary NeueMachina">READ MORE</a>
       </div>
   </div>
-    <div class="card" id="filler-card" style="background-color: transparent; border-block-color: transparent; border: none !important;margin-right:2rem;margin-bottom:1rem;">
+</div>
     </div>
   </div>
-    </div>
-<br>
-  </div>
+
 
 <div class="card text-center  blue-card shadow">
   <div class="card-body">
