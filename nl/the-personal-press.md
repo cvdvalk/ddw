@@ -75,30 +75,18 @@ en lokken verdere vragen uit over wie verantwoordelijkheid zou moeten nemen over
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
 <img src="https://placehold.co/4000x3000" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
-This team of makers is made up of four MsC students studying Design for Interaction at TU Delft, namely:<br><br>
-<b>Neslihan</b>: a playful designer who brings her designs to life through her sketches.<br>
-<b>Sukriti</b>: as a designer she believes that design is a not a skillset but a mindset.<br>
-<b>Kim</b>: she uses design to address complex social subjects and leave positive impact.<br>
-<b>Koen</b>: a hands-on experimental designer who brings life to his designs by making.<br><br>
+Dit team van makers bestaat uit vier master studenten van Design for Interaction<br>
+<b>Neslihan Can (2000)</b>: Een speelse ontwerper die haar ontwerpen tot leven brengt middels schetsen<br>
+<b>Sukriti Garg (1996)</b>: Als ontwerper gelooft ze dat ontwerpen geen skillset is, maar een mindset<br>
+<b>Kim de Vrij (1995)</b>: Gebruikt ontwerp als manier om complexe sociale onderwerpen aan te kaarten en een positieve impact achter te laten<br>
+<b>Koen Weber (1999)</b>: Een praktische experimentele ontwerper die leven in zijn werk brengt door het te maken.
+<br><br>
+Als team zagen ze dat mensenrechten – zoals privacy en vrijheid van meningsuiting – aan het veranderen zijn. Vrijheid van meningsuiting wordt gevormd door de platformen waarop we communiceren, terwijl technologische ontwikkelingen, zoals AI, een grote rol spelen bij de manier waarop we met elkaar communiceren. Het bepalen van de informatie die gebruikt wordt om keuzes te maken in dit domein is onzichtbaar en complex. er
+<br><br>
+Natuurlijk is ‘generatieve AI’ (denk aan taalmodellen als ChatGPT) een rage de laatste tijd. Echter schijnt er nog weinig licht op hoe het de komende jaren de toekomst écht zou kunnen vormen. Door taalmodellen verder te onderzoeken, ermee te experimenteren en het toe te passen op nieuwsartikelen, had het team door dat ze iets op het spoor waren. Nieuws vormt de lens waardoor wij de wereld zien, dus wat zou het betekenen als generatieve AI de lens bepaalt? 
+<br><br>
+Het project is ontstaan uit het vak ‘Interactive Technology Design’ in de master Design for Interaction aan de TU Delft. Hier worden studenten uitgedaagd om te experimenteren met veel verschillende technologieën. Tegelijkertijd worden deze technologieën toegepast op een case, in dit geval ‘digitale mensenrechten’. De studenten hebben geëxperimenteerd hoe een toekomstige interactie eruit kan zien binnen het kader van de case, middels uiteenlopende prototypes en testen. Op deze vele prototypes wordt vervolgens steeds gereflecteerd, waarna de cyclus zich herstart. Als resultaat van dit iteratieve proces is The Personal Press ontstaan. Toen de studenten dit sterke concept eenmaal in handen hadden, was de grootste uitdaging om de uitwerking ervan simpel te houden en de kern van het verhaal sterk over te brengen.
 
-As a team, they recognised that basic human rights - privacy, freedom of expression, freedom of opinion
-or assembly and association - are all changed when digital technology and AI is at the heart of how we
-communicate, socialise and interact. Freedom of expression is shaped by the platforms where we
-communicate. The control of information used to make decisions is invisible and complex.<br><br>
-
-Of course, generative AI was all the hype this year with lots of buzz around the question of whether it was
-becoming conscious. There was less focus on how it might actually change the world in the coming years.
-By further researching and experimenting with large language models (LLMs), and applying it to news
-media, the team felt like they were onto something.<br><br>
-
-The project started in a course called Interactive Technology Design. Students were invited to experiment
-with many different kinds of interactive technologies. At the same time, they read extensively on digital
-human rights – which became the topic of their case. The students looked at how they might convey a
-future interaction by means of a series of rapid prototypes and tests. Reflecting on these test results, the
-students came to understand the elements which would help them convey the message. Compiling these
-reflections helped them form the first prototype of a generative newspaper. Having a strong concept in
-their hands, it was a challenge to keep the installation simple, while maintaining the essence of the
-message they wanted to convey.
   </div>
 </div>
 </div>
@@ -133,7 +121,7 @@ hoe mensen hun eigen unieke lamp kunnen ontwerpen en maken.
 <br>
 <div class="card text-center  blue-card shadow">
   <div class="card-body">
-    <h5 class="card-title NeueMachina-h4" style="color:white;">MEER WETEN OVER DE TU DELFT EN HIER STUDEREN?</h5>
+    <h5 class="card-title NeueMachina-h4" style="color:white;">MEER WETEN OVER <br>TU DELFT EN HIER STUDEREN?</h5>
     <a href="https://www.tudelft.nl/onderwijs/praktische-zaken/voorzieningen" class="btn btn-primary NeueMachina">JAZEKER!</a>
   </div>
 </div>

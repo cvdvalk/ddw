@@ -121,7 +121,7 @@ needs. Recently, an IDE graduate developed a
 <br>
 <div class="card text-center  blue-card shadow">
   <div class="card-body">
-    <h5 class="card-title NeueMachina-h4" style="color:white;">WANT TO KNOW MORE ABOUT TU DELFT AND STUDYING HERE?</h5>
+    <h5 class="card-title NeueMachina-h4" style="color:white;">WANT TO KNOW MORE ABOUT <br>TU DELFT AND STUDYING HERE?</h5>
     <a href="https://www.tudelft.nl/en/education/practical-matters/studying-at-tu-delft" class="btn btn-primary NeueMachina">YES PLEASE!</a>
   </div>
 </div>

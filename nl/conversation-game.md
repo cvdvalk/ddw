@@ -136,7 +136,7 @@ en deskundigen die werken aan het
 <br>
 <div class="card text-center  blue-card shadow">
   <div class="card-body">
-    <h5 class="card-title NeueMachina-h4" style="color:white;">MEER WETEN OVER DE TU DELFT EN HIER STUDEREN?</h5>
+    <h5 class="card-title NeueMachina-h4" style="color:white;">MEER WETEN OVER <br>TU DELFT EN HIER STUDEREN?</h5>
     <a href="https://www.tudelft.nl/onderwijs/praktische-zaken/voorzieningen" class="btn btn-primary NeueMachina">JAZEKER!</a>
   </div>
 </div>
