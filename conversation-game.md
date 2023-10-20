@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/08ConversationGame/ConversationGame001.jpg" alt="Card image cap"
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -32,8 +36,6 @@ therapist. Although these suggestions are meant to be helpful, they tell the oth
 be fixed rather than understood. That they are somehow broken from the inside, that it is their fault that
 they feel the way they do.<br>
 <br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
-<br>
 
 To highlight the importance of listening as a means of creating real connections, Leon and Yash created
 an interactive film in the style of Netflix's critically acclaimed “Black Mirror: Bandersnatch”. They invite you
@@ -53,19 +55,10 @@ show curiosity about negativity, even if it feels daunting in a society geared o
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/08ConversationGame/ConversationGame002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/08ConversationGame/ConversationGame003.jpg" alt="Card image cap">
     </div>
   </div>
 </div>
@@ -74,7 +67,7 @@ show curiosity about negativity, even if it feels daunting in a society geared o
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/08ConversationGame/ConversationGame-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 <b>Leon van Klaveren (1998)</b><br>
 Driven by the personal urgency of seeing close acquaintances struggle with their mental wellbeing, Leon

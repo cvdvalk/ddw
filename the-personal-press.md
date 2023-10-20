@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" alt="Card image cap" 
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -24,8 +28,6 @@ define the perception of a topic we are reading about. We can see that in differ
 have a very conservative perspective, while others are focused on being ''social media-able''. So, what if
 language models enhance this phenomenon? What if every individual sees their own personalised news?
 What if what I see is not the same as what you see?<br>
-<br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
 <br>
 
 Generative AI can rapidly produce unique content tailored to individual readers. Companies like
@@ -51,19 +53,10 @@ should be responsible for these prompts.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/05ThePersonalPress/ThePersonalPress002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/05ThePersonalPress/ThePersonalPress003.jpg" alt="Card image cap">
     </div>
   </div>
 </div>
@@ -72,7 +65,7 @@ should be responsible for these prompts.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/05ThePersonalPress/ThePersonalPress-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 This team of makers is made up of four MsC students studying Design for Interaction at TU Delft, namely:<br><br>
 <b>Neslihan</b>: a playful designer who brings her designs to life through her sketches.<br>

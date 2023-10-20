@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" alt="Card image cap" 
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -24,8 +28,6 @@ van een onderwerp. Dit zien we terug in verschillende nieuwsmedia: sommige hebbe
 perspectief, terwijl andere meer ''social media-vriendelijke'' content produceren. Wat als Language
 Models dit fenomeen versterken? Wat als elk individu zijn of haar eigen, gepersonaliseerd nieuws kan
 lezen? Wat als wat ik zie niet hetzelfde is als wat jij ziet?<br>
-<br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
 <br>
 
 Generatieve AI kan snel unieke content produceren, op maat gemaakt voor individuele lezers. Bedrijven
@@ -52,19 +54,10 @@ en lokken verdere vragen uit over wie verantwoordelijkheid zou moeten nemen over
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/05ThePersonalPress/ThePersonalPress002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/05ThePersonalPress/ThePersonalPress003.jpg" alt="Card image cap">
     </div>
   </div>
 </div>
@@ -73,7 +66,7 @@ en lokken verdere vragen uit over wie verantwoordelijkheid zou moeten nemen over
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/05ThePersonalPress/ThePersonalPress-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 Dit team van makers bestaat uit vier master studenten van Design for Interaction<br>
 <b>Neslihan Can (2000)</b>: Een speelse ontwerper die haar ontwerpen tot leven brengt middels schetsen<br>

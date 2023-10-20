@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" alt="Card image cap"
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -24,8 +28,6 @@ verdrongen ten gunste van wegwerpbaarheid en gemak. Het huren van woningen was a
 trend, maar in dit tijdperk staat alles te huur. Apparaten, uitgerust met sensoren, rekenen gebruikers
 onderweg af en vallen uit wanneer niet betaald wordt. Ook. Met de nieuwste technologieën in robotica en
 AI wordt zelfs gezelschap een handelswaar.<br>
-<br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
 <br>
 
 “In dit tijdperk, waar menselijke interacties vaak beperkt en omslachtig aanvoelden, bieden wij de
@@ -49,19 +51,10 @@ commodificeren en uitbesteden van de meest intieme aspecten van ons leven.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS002.png" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS003.jpg" alt="Card image cap">
     </div>
   </div>
 </div>
@@ -70,7 +63,7 @@ commodificeren en uitbesteden van de meest intieme aspecten van ons leven.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 Eric Gu's (1991) reis naar de wereld van AI begon onverwacht terwijl hij onderzocht of hij een cyborg kon
 worden. Gedurende de afgelopen zeven jaar heeft hij het delicate evenwicht tussen mensgericht ontwerp

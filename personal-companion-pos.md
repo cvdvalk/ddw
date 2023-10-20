@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" alt="Card image cap"
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -24,8 +28,6 @@ disposability and convenience. While renting homes had been a longstanding trend
 everything up for lease. Appliances equipped with sensors charged users on-the-go, occasionally shutting
 down when payments were overdue. Cars weren't exempt, nor were their features. With the latest in
 robotics and AI, even empathy became a commodity.<br>
-<br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
 <br>
 
 In this age, where human interactions often felt limiting and cumbersome, we offer the perfection of
@@ -49,19 +51,10 @@ inherent dangers of commodifying and outsourcing the most intimate aspects of ou
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS002.png" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS003.jpg" alt="Card image cap">
     </div>
   </div>
 </div>
@@ -70,7 +63,7 @@ inherent dangers of commodifying and outsourcing the most intimate aspects of ou
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 Eric Gu's (1991) journey into the realm of AI began unexpectedly while exploring his obsession with
 becoming a cyborg. Over the past seven years, he's navigated the intricate balance between humancentric

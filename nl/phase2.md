@@ -55,19 +55,25 @@ Elke dag van11:00 – 18:00, geen ticket nodig
 <br>
 <div class="card-deck">
 <div class="card toast-card" style="margin-left:2rem;margin-bottom:1rem;">
-    <a href="/nl/toasty-maker"><img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+    <a href="/nl/toasty-maker"><img class="card-img-top" src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Speculative <br>Toastie Maker</b></p>
         <p class="card-text" style="margin-left:0rem;margin-bottom:0rem;"> In dit lopende afstudeerproject voor het masterproject van student Chris Vooren ontwikkelt zij een benadering om producten te ontwerpen die …</p>
         <br>
-          <a href="/nl/toasty-maker" class="btn btn-primary NeueMachina">LEES VERDER</a>
+          <!-- <a href="/nl/toasty-maker" class="btn btn-primary NeueMachina">LEES VERDER</a> -->
+      </div>
+      <div class="card-footer text-center">
+        <a href="/nl/toasty-maker" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
   </div>
     <div class="card bruno-card" style="margin-right:2rem;margin-bottom:1rem;">
-    <a href="/nl/bruno-the-bench"><img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+    <a href="/nl/bruno-the-bench"><img class="card-img-top" src="/assets/img/02BrunoTheBench/BrunoTheBench001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Bruno<br> The Bench</b></p>
         <p class="card-text"> Slechts een klein groepje mensen heeft de macht om de stad vorm te geven. Ondanks dat stadsmakers burgers proberen te …</p>
+        <!-- <a href="/nl/bruno-the-bench" class="btn btn-primary NeueMachina">LEES VERDER</a> -->
+      </div>
+      <div class="card-footer text-center">
         <a href="/nl/bruno-the-bench" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
     </div>
@@ -78,18 +84,24 @@ Elke dag van11:00 – 18:00, geen ticket nodig
 
 <div class="card-deck">
 <div class="card bias-card" style="margin-left:2rem;margin-bottom:1rem;">
-    <a href="/nl/unconscious-bias"><img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+    <a href="/nl/unconscious-bias"><img class="card-img-top" src="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Unconscious Bias</b></p>
         <p class="card-text"> Deze installatie houdt de samenleving een vernieuwende en verfrissende spiegel voor. Bij deze studenten is het centrale thema buitensluiting in …</p>
-        <a href="/nl/unconscious-bias" class="btn btn-primary NeueMachina">LEES VERDER</a>
+        <!-- <a href="/nl/unconscious-bias" class="btn btn-primary NeueMachina">LEES VERDER</a> -->
       </div>
+      <div class="card-footer text-center">
+          <a href="/nl/unconscious-bias" class="btn btn-primary NeueMachina">LEES VERDER</a>
+        </div>
     </div> 
     <div class="card mike-card" style="margin-right:2rem;margin-bottom:1rem;">
-    <a href="/nl/m-i-k-e"><img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+    <a href="/nl/m-i-k-e"><img class="card-img-top" src="/assets/img/04MIKE/MIKE001.JPG" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>M-I-K-E</b></p>
         <p class="card-text"> In een steeds meer verstedelijkte en technologische wereld, waar de natuur (voornamelijk door menselijke inmenging) verdwijnt, is het belangrijk om …</p>
+        <!-- <a href="/nl/m-i-k-e" class="btn btn-primary NeueMachina">LEES VERDER</a> -->
+      </div>
+      <div class="card-footer text-center">
         <a href="/nl/m-i-k-e" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
     </div>
@@ -99,18 +111,24 @@ Elke dag van11:00 – 18:00, geen ticket nodig
 
 <div class="card-deck">
     <div class="card press-card" style="margin-left:2rem;margin-bottom:1rem;">
-    <a href="/nl/the-personal-press"><img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+    <a href="/nl/the-personal-press"><img class="card-img-top" src="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>The Personal Press</b></p>
         <p class="card-text"> Nieuwsmedia bepalen voor een groot deel ons wereldbeeld. Woorden bepalen eigenlijk het perspectief van een onderwerp. Dit zien we terug …</p>
+        <!-- <a href="/nl/the-personal-press" class="btn btn-primary NeueMachina">LEES VERDER</a> -->
+      </div>
+      <div class="card-footer text-center">
         <a href="/nl/the-personal-press" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
     </div>
     <div class="card pos-card" style="margin-right:2rem;margin-bottom:1rem;">
-    <a href="/nl/personal-companion-pos"><img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+    <a href="/nl/personal-companion-pos"><img class="card-img-top" src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Personal Companion POS</b></p>
         <p class="card-text"> Tegen 2030 domineert het Abonnement-tijdperk, waarbij de traditionele waarde van eigendom werd verdrongen ten gunste van wegwerpbaarheid en gemak. Het huren van …</p>
+        <!-- <a href="/nl/personal-companion-pos" class="btn btn-primary NeueMachina">LEES VERDER</a> -->
+      </div>
+      <div class="card-footer text-center">
         <a href="/nl/personal-companion-pos" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
     </div>
@@ -119,18 +137,24 @@ Elke dag van11:00 – 18:00, geen ticket nodig
 <br>
 <div class="card-deck">
 <div class="card muscle-card" style="margin-left:2rem;margin-bottom:1rem;">
-    <a href="/nl/mind-muscle-club"><img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+    <a href="/nl/mind-muscle-club"><img class="card-img-top" src="/assets/img/07MIndMuscleClub/MIndMuscleClub001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Mind Muscle Club</b></p>
         <p class="card-text"> Mind Muscle Club is een baanbrekend idee dat de manier waarop we denken over mentale gezondheid herontwerpt. Het is een …</p>
+        <!-- <a href="/nl/mind-muscle-club" class="btn btn-primary NeueMachina">LEES VERDER</a> -->
+      </div>
+      <div class="card-footer text-center">
         <a href="/nl/mind-muscle-club" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
     </div>
     <div class="card conv-card" style="margin-right:2rem;margin-bottom:1rem;">
-    <a href="/nl/conversation-game"><img class="card-img-top" src="https://placehold.co/30x30" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+    <a href="/nl/conversation-game"><img class="card-img-top" src="/assets/img/08ConversationGame/ConversationGame001-mini.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Conversation Game</b></p>
         <p class="card-text"> In een samenleving die meer dan ooit geobsedeerd is met het verbeteren van onze mentale gezondheid, duiden stijgende diagnoses op …</p>
+        <!-- <a href="/nl/conversation-game" class="btn btn-primary NeueMachina">LEES VERDER</a> -->
+      </div>
+      <div class="card-footer text-center">
         <a href="/nl/conversation-game" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
   </div>

@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" alt="Card image cap"
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -27,8 +31,6 @@ ontwerpwereld daar nog niet klaar voor, omdat veel designers het ‘self-user sy
 ze denken: ‘het product werkt perfect… voor mijzelf, dus ik hoef niks aan te passen’. Hierdoor komt het
 nog steeds voor dat er producten, services, en systemen zijn die niet gebruikt kunnen worden door
 verschillende groepen mensen in de samenleving.<br>
-<br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
 <br>
 
 Hoe gaan we dit rechtzetten? De installatie is gebaseerd op een theorie van Joris Luyendijk. Zijn ‘7-
@@ -50,19 +52,16 @@ can do’.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/03UnconsciousBias/UnconsciousBias002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/03UnconsciousBias/UnconsciousBias003.jpg" alt="Card image cap">
     </div>
   </div>
   <br>
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/03UnconsciousBias/UnconsciousBias004.jpg" alt="Card image cap">
     </div>
   </div>
 </div>
@@ -71,7 +70,7 @@ can do’.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/03UnconsciousBias/UnconsciousBias-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 De studenten noemen zichzelf marrenathan design. Een avantgardlistisch design duo uit Delft dat de
 wereld niet perse mooier maakt. Marre van der Schee (1998) en Nathan Douenburg (2001) leerden

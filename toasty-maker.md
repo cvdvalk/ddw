@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker001.jpeg" alt="Card image cap"  
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -22,8 +26,6 @@ header_img: assets/img/mini-banner.png
 This ongoing master's graduation project aims to develop an approach to design products with enhanced
 durability. This research doesn't solely focus on extending the physical longevity and repairability of
 objects to extend their lifespan; it places equal importance on their emotional durability. <br>
-<br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
 <br>
 
 Designing products that are both long-lasting and repairable is a relatively straightforward objective when
@@ -50,28 +52,20 @@ insights and input will play an important role in shaping the next stage of the 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker003.jpeg" alt="Card image cap">
     </div>
   </div>
   <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-  </div>
 </div>
 <br>
 <!-- ## Title 2 -->
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 Chris Vooren (1998) holds a personal belief in the value of repairing, but recognises the equal importance
 of what precedes – the desire to repair. Her specific interest lies in the everyday objects that surround us

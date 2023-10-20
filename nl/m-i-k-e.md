@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/04MIKE/MIKE001.JPG" alt="Card image cap"
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -24,8 +28,6 @@ menselijke inmenging) verdwijnt, is het belangrijk om terug te gaan naar waar we
 zouden onszelf moeten afvragen wat we kunnen leren van de natuur en niet hoe we deze kunnen
 verslaan of omzeilen. Als we een toekomst met gezonde planeet willen, moeten we een manier vinden
 om niet alleen de natuur te begrijpen, maar ermee samen te werken en te integreren.<br>
-<br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
 <br>
 
 Er valt zoveel te leren van de natuur! We proberen als mens natuurlijke fenomenen al ons hele bestaan
@@ -55,19 +57,20 @@ bezoeker vertrekt met meer empathie voor de natuur en een beter begrip hiervan.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/04MIKE/MIKE002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/04MIKE/MIKE003.jpg" alt="Card image cap">
     </div>
   </div>
   <br>
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/04MIKE/MIKE004.jpg" alt="Card image cap" 
+        style="max-height:500px;
+          max-width:500px;
+          height:auto;
+          width:auto;">
     </div>
   </div>
 </div>
@@ -76,7 +79,7 @@ bezoeker vertrekt met meer empathie voor de natuur en een beter begrip hiervan.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/04MIKE/MIKE-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 Interactive Environments Minor 2022<br><br>
 Coaches: Govert Flint, Martin Havranek, Aadjan van der Helm, Tomasz Jaskiewicz, Wim Schermer, Dieter

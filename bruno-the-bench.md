@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/bruno.png" alt="Card image cap">
+<img src="/assets/img/02BrunoTheBench/BrunoTheBench001.jpg" alt="Card image cap" 
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -20,8 +24,6 @@ header_img: assets/img/mini-banner.png
 <h3 class="text-center NeueMachina-h4">How can you improve the city<br> with Bruno the Bench?</h3>
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 Today, only a select few hold the power in urban planning. A large number of citizens are excluded from the process. Although city makers try to include citizens through participation, this is often thought of as being very time consuming or rather dull. Citizens also feel that they lack the expertise or know-how. We believe the power to shape the city should be divided more equally by making participation more accessible.  <br>
-<br>
-<img src="/assets/img/bruno.png" alt="Card image cap">
 <br>
 
 Bruno the Bench is part of a platform that solves this accessibility problem. Urban objects such as rubbish bins and traffic lights are brought to life, engaging citizens in conversations about their neighbourhoods, with their neighbourhoods. They can share their opinions and ideas on the physical and social aspects of the neighbourhood where the object is located. The objects in turn share their stories and observations. Through these conversations with the inanimate, people foster empathy and a deeper understanding of how their surroundings look and behave which strengthens their bond with the environment, its people, its space and its ‘things’.  <br>  
@@ -38,28 +40,20 @@ collective vision for the future city.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/bruno.png" alt="Card image cap">
+      <img src="/assets/img/02BrunoTheBench/BrunoTheBench002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="/assets/img/bruno.png" alt="Card image cap">
+      <img src="/assets/img/02BrunoTheBench/BrunoTheBench003.jpg" alt="Card image cap">
     </div>
   </div>
   <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="/assets/img/bruno.png" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="/assets/img/bruno.png" alt="Card image cap">
-    </div>
-  </div>
 </div>
 <br>
 <!-- ## Title 2 -->
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
-<img src="/assets/img/bruno.png" alt="Card image cap">
+<img src="/assets/img/02BrunoTheBench/BrunoTheBench-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 We are Virginia Facciotto (1999), Rijk Roozenbeek (2000), Valentina Guadagno (1999), Ryan Tsai (2000) and Maartje Roggeveen (1997), an international and diverse group of Design for Interaction students at TU Delft’s Faculty of Industrial Design Engineering. Thanks to Virginia’s rationality and planning enthusiasm, Rijk’s steady-as-a-rock reliability, Valentina’s vibrancy and storytelling skills, Ryan’s triggering, unexpected views and Maartje’s innovative ideas and positivity we managed to put together a talking bench. Based on the data collecting possibilities of AI and the need for more inclusive city making we iterated on concepts weekly over the course of a semester. In collaboration with Citizen Voice, a platform for public participation and citizen engagement led by Dr. Juliana Goncalves at TU Delft, and the structure and know-how that was provided by the master course ‘Interactive Technology Design’ we created different contexts with different AI empowered tools to test, speculate and reflect on the possibilities and ethical dilemmas of the role of artificial intelligence in the future city. How should we deal with such a powerful technology that will inevitably be part of our lives in the future? Utopian scenarios were followed by dystopian ones, Bruno could fit in both. We hope people are triggered by the peculiarity of talking to an object and we hope the conversation continues so that the ethical concerns around inclusivity and AI are challenged by their future users.
   </div>

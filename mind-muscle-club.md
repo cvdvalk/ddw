@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/07MIndMuscleClub/MIndMuscleClub001.jpg" alt="Card image cap"
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -24,8 +28,6 @@ It is a place where people can work on building their mental resilience, and lea
 topics that are often overlooked in traditional education and healthcare settings. Unlike traditional gyms,
 the mental well-being gym is not focused on physical fitness, but rather on mental fitness. This is more
 important now than ever, as we face unprecedented levels of stress, anxiety, and depression.<br>
-<br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
 <br>
 
 Mind Muscle Club is designed to be a easily accessible and easy to use: a place where everyone can feel
@@ -43,19 +45,10 @@ Clubs become as commonplace as physical gyms are today.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/07MIndMuscleClub/MIndMuscleClub002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/07MIndMuscleClub/MIndMuscleClub003.png" alt="Card image cap">
     </div>
   </div>
 </div>
@@ -64,7 +57,7 @@ Clubs become as commonplace as physical gyms are today.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/07MIndMuscleClub/MindMuscleClub-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 Tamay Oudhof (1998) and Floor Oomen (1998) created the Mind Muscle Club for the DDW 2023. The
 concept derived from the graduation project of Floor about reducing waiting times in the youth mental

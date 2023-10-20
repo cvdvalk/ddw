@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/bruno.png" alt="Card image cap">
+<img src="/assets/img/02BrunoTheBench/BrunoTheBench001.jpg" alt="Card image cap" 
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -25,8 +29,6 @@ van de bevolking geen directe invloed op de veranderende stad. Dat komt ook omda
 zien als een te grote tijdsinvestering, omdat ze het saai vinden of omdat ze het gevoel hebben te weinig
 kennis of ervaring te hebben. De studenten vinden dat deze macht eerlijker verdeeld moet worden door
 participatie toegankelijker te maken.<br>
-<br>
-<img src="/assets/img/bruno.png" alt="Card image cap">
 <br>
 
 Bruno het stadsbankje is onderdeel van een platform dat deze toegankelijkheid biedt. Dit platform bestaat
@@ -50,28 +52,20 @@ stad.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/bruno.png" alt="Card image cap">
+      <img src="/assets/img/02BrunoTheBench/BrunoTheBench002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="/assets/img/bruno.png" alt="Card image cap">
+      <img src="/assets/img/02BrunoTheBench/BrunoTheBench003.jpg" alt="Card image cap">
     </div>
   </div>
   <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="/assets/img/bruno.png" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="/assets/img/bruno.png" alt="Card image cap">
-    </div>
-  </div>
 </div>
 <br>
 <!-- ## Title 2 -->
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
-<img src="/assets/img/bruno.png" alt="Card image cap">
+<img src="/assets/img/02BrunoTheBench/BrunoTheBench-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 Maak kennis met Virginia Facciotto (1999), Rijk Roozenbeek (2000), Valentina Guadagno (1999), Ryan
 Tsai (2000) en Maartje Roggeveen (1997), een internationale en diverse groep Design for Interaction

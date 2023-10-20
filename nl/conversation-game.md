@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/08ConversationGame/ConversationGame001.jpg" alt="Card image cap"
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -32,8 +36,6 @@ goed komt, dat we moeten proberen er overheen te komen, of er wordt ons gevraagd
 geprobeerd te mediteren, dat zelfhulpboek hebben gelezen of naar een therapeut zijn geweest. Hoewel
 deze suggesties goed bedoeld zijn, vertellen ze de andere persoon dat ze gefixt moeten worden.<br>
 <br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
-<br>
 
 Om het belang van echte connecties te benadrukken, creëerden Leon van Klaveren en Yash Khinvasara
 een interactieve film in de stijl van Netflix' veelgeprezen "Black Mirror: Bandersnatch". Ze nodigen je uit
@@ -54,19 +56,10 @@ negativiteit, ook al voelt dat ontmoedigend in een maatschappij die gericht is o
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/08ConversationGame/ConversationGame002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/08ConversationGame/ConversationGame003.jpg" alt="Card image cap">
     </div>
   </div>
 </div>
@@ -75,7 +68,7 @@ negativiteit, ook al voelt dat ontmoedigend in een maatschappij die gericht is o
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/08ConversationGame/ConversationGame-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 <b>Leon van Klaveren (1998)</b><br>
 Leon van Klaveren zag steeds meer bekenden die worstelen met hun mentaal welzijn, daarom begon hij

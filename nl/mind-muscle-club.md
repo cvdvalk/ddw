@@ -9,7 +9,11 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/07MIndMuscleClub/MIndMuscleClub001.jpg" alt="Card image cap"
+  style="max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;">
 <br> 
 
 
@@ -25,8 +29,6 @@ belangrijke levensonderwerpen die vaak over het hoofd worden gezien in tradition
 gezondheidszorginstellingen. In tegenstelling tot traditionele sportscholen richt de Mind Muscle Club zich
 niet op fysieke fitheid, maar eerder op mentale fitheid. Dit is nu belangrijker dan ooit, aangezien we te
 maken hebben met ongekend veel stress, angst en depressies.<br>
-<br>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
 <br>
 
 Mind Muscle Club is een laagdrempelige locatie waar iedereen zich comfortabel en veilig kan voelen.
@@ -45,19 +47,10 @@ net zo normaal zijn als fysieke sportscholen dat vandaag zijn.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/07MIndMuscleClub/MIndMuscleClub002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-  </div>
-  <br>
-  <div class="row">
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
-    </div>
-    <div class="col-sm">
-      <img src="https://placehold.co/4000x3000" alt="Card image cap">
+      <img src="/assets/img/07MIndMuscleClub/MIndMuscleClub003.png" alt="Card image cap">
     </div>
   </div>
 </div>
@@ -66,7 +59,7 @@ net zo normaal zijn als fysieke sportscholen dat vandaag zijn.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
-<img src="https://placehold.co/4000x3000" alt="Card image cap">
+<img src="/assets/img/07MIndMuscleClub/MindMuscleClub-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
 Tamay Oudhof (1998) en Floor Oomen (1998) hebben de Mind Muscle Club ontworpen voor DDW 2023.
 Het concept ontstond uit het afstudeerproject van Floor over het verminderen van wachttijden in de jeugd
