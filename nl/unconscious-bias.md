@@ -9,11 +9,8 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" alt="Card image cap"
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+<a href="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" alt="Card image cap"
+class="main-image"></a>
 <br> 
 
 
@@ -22,7 +19,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">Unconscious Bias</h1>
 <h3 class="text-center NeueMachina-h4">Zijn de maatschappij & systemen op jou afgestemd?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Deze installatie houdt de samenleving een vernieuwende en verfrissende spiegel voor. Bij deze
 studenten is het centrale thema buitensluiting in de samenleving. Ieder mens heeft weleens meegemaakt
 dat een product niet aansloot op zijn of haar noden. In een wereld waar we steeds duurzamer moeten
@@ -52,16 +49,16 @@ can do’.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/03UnconsciousBias/UnconsciousBias002.jpg" alt="Card image cap">
+      <a href="/assets/img/03UnconsciousBias/UnconsciousBias002.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias002.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <img src="/assets/img/03UnconsciousBias/UnconsciousBias003.jpg" alt="Card image cap">
+      <a href="/assets/img/03UnconsciousBias/UnconsciousBias003.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias003.jpg" alt="Card image cap"></a>
     </div>
   </div>
   <br>
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/03UnconsciousBias/UnconsciousBias004.jpg" alt="Card image cap">
+      <a href="/assets/img/03UnconsciousBias/UnconsciousBias004.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias004.jpg" alt="Card image cap"></a>
     </div>
   </div>
 </div>
@@ -71,7 +68,7 @@ can do’.
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
 <img src="/assets/img/03UnconsciousBias/UnconsciousBias-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 De studenten noemen zichzelf marrenathan design. Een avantgardlistisch design duo uit Delft dat de
 wereld niet perse mooier maakt. Marre van der Schee (1998) en Nathan Douenburg (2001) leerden
 elkaar kennen tijdens hun eerste jaar Industrieel Ontwerpen aan de TU Delft. Hun eerste project tijdens
@@ -104,7 +101,7 @@ services en systemen om ons heen.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Wat doen we bij TU Delft<br> Industrieel Ontwerpen?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Studenten en onderzoekers werken aan een eerlijkere, meer inclusieve samenleving via vakken
 zoals Inclusive Design en Culture Sensitive Design en via labs, waaronder het 
 <a href="https://delftdesignlabs.org/inclusive-design-lab/" target="_blank"><u>Inclusive Design Lab</u></a>

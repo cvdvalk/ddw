@@ -9,11 +9,8 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/07MIndMuscleClub/MIndMuscleClub001.jpg" alt="Card image cap"
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+<a href="/assets/img/07MIndMuscleClub/MIndMuscleClub001.jpg" target="_blank"><img src="/assets/img/07MIndMuscleClub/MIndMuscleClub001.jpg" alt="Card image cap"
+class="main-image"></a>
 <br> 
 
 
@@ -22,7 +19,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">Mind Muscle Club</h1>
 <h3 class="text-center NeueMachina-h4">Hoe werk jij aan jouw mentale gezondheid?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Mind Muscle Club is een baanbrekend idee dat de manier waarop we denken over mentale gezondheid
 herontwerpt. Het is een plek waar mensen hun mentale veerkracht kunnen opbouwen en leren over
 belangrijke levensonderwerpen die vaak over het hoofd worden gezien in traditionele onderwijs- en
@@ -47,10 +44,10 @@ net zo normaal zijn als fysieke sportscholen dat vandaag zijn.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/07MIndMuscleClub/MIndMuscleClub002.jpg" alt="Card image cap">
+      <a href="/assets/img/07MIndMuscleClub/MIndMuscleClub002.jpg" target="_blank"><img src="/assets/img/07MIndMuscleClub/MIndMuscleClub002.jpg" alt="Card image cap">
     </div>
     <div class="col-sm">
-      <img src="/assets/img/07MIndMuscleClub/MIndMuscleClub003.png" alt="Card image cap">
+      <a href="/assets/img/07MIndMuscleClub/MIndMuscleClub003.png" target="_blank"><img src="/assets/img/07MIndMuscleClub/MIndMuscleClub003.png" alt="Card image cap">
     </div>
   </div>
 </div>
@@ -60,7 +57,7 @@ net zo normaal zijn als fysieke sportscholen dat vandaag zijn.
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
 <img src="/assets/img/07MIndMuscleClub/MindMuscleClub-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Tamay Oudhof (1998) en Floor Oomen (1998) hebben de Mind Muscle Club ontworpen voor DDW 2023.
 Het concept ontstond uit het afstudeerproject van Floor over het verminderen van wachttijden in de jeugd
 GGZ. De belangrijkste ontdekking is de nood aan een preventief zorgsysteem. Hierdoor ontstond het idee
@@ -79,7 +76,7 @@ hiertoe een aanzet geeft.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Wat doen we bij TU Delft<br> Industrieel Ontwerpen?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Een gezonde samenleving start met een goede menselijke gezondheid. Onderzoekers en
 studenten van TU Delft Industrieel Ontwerpen dragen hieraan via projecten in de hele
 gezondheidszorg - van preventieve zorg en behandeling tot vragen over welzijn.

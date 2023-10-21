@@ -9,11 +9,8 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" alt="Card image cap"
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+<a href="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" target="_blank"><img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" alt="Card image cap"
+class="main-image"></a>
 <br> 
 
 
@@ -22,7 +19,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">Personal Companion POS</h1>
 <h3 class="text-center NeueMachina-h4">Will we become friends with robots?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 By 2030, the Subscription Era dominated, pushing the traditional value of ownership aside in favour of
 disposability and convenience. While renting homes had been a longstanding trend, this era saw
 everything up for lease. Appliances equipped with sensors charged users on-the-go, occasionally shutting
@@ -51,10 +48,10 @@ inherent dangers of commodifying and outsourcing the most intimate aspects of ou
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS002.png" alt="Card image cap">
+      <a href="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS002.png" target="_blank"><img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS002.png" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS003.jpg" alt="Card image cap">
+      <a href="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS003.jpg" target="_blank"><img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS003.jpg" alt="Card image cap"></a>
     </div>
   </div>
 </div>
@@ -64,7 +61,7 @@ inherent dangers of commodifying and outsourcing the most intimate aspects of ou
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
 <img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Eric Gu's (1991) journey into the realm of AI began unexpectedly while exploring his obsession with
 becoming a cyborg. Over the past seven years, he's navigated the intricate balance between humancentric
 design and the vast potential of AI.<br><br>
@@ -85,7 +82,7 @@ contribute meaningfully to a future of a harmonized coexistence amongst all kind
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">What we do at TU Delft<br> Industrial Design Engineering?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 AI is becoming ever more prevalent in the artefacts around us – in anything from robots to refrigerators
 and clothing. As these products are entering our professional, social and even intimate private lives,
 IDE’s 

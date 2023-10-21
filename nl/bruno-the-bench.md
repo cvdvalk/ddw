@@ -9,11 +9,7 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/02BrunoTheBench/BrunoTheBench001.jpg" alt="Card image cap" 
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+ <a href="/assets/img/02BrunoTheBench/BrunoTheBench001.jpg" target="_blank"><img src="/assets/img/02BrunoTheBench/BrunoTheBench001.jpg" alt="Card image cap" class="main-image"></a>
 <br> 
 
 
@@ -22,7 +18,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">Bruno the Bench</h1>
 <h3 class="text-center NeueMachina-h4">Hoe kun je samen met Bruno de bank de stad verbeteren?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Slechts een klein groepje mensen heeft de macht om de stad vorm te geven. Ondanks dat stadsmakers
 burgers proberen te betrekken door middel van verscheidene participatieprojecten, heeft het merendeel
 van de bevolking geen directe invloed op de veranderende stad. Dat komt ook omdat mensen participatie
@@ -52,10 +48,10 @@ stad.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/02BrunoTheBench/BrunoTheBench002.jpg" alt="Card image cap">
+      <a href="/assets/img/02BrunoTheBench/BrunoTheBench002.jpg" target="_blank"><img src="/assets/img/02BrunoTheBench/BrunoTheBench002.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <img src="/assets/img/02BrunoTheBench/BrunoTheBench003.jpg" alt="Card image cap">
+      <a href="/assets/img/02BrunoTheBench/BrunoTheBench003.jpg" target="_blank"><img src="/assets/img/02BrunoTheBench/BrunoTheBench003.jpg" alt="Card image cap"></a>
     </div>
   </div>
   <br>
@@ -66,7 +62,7 @@ stad.
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
 <img src="/assets/img/02BrunoTheBench/BrunoTheBench-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Maak kennis met Virginia Facciotto (1999), Rijk Roozenbeek (2000), Valentina Guadagno (1999), Ryan
 Tsai (2000) en Maartje Roggeveen (1997), een internationale en diverse groep Design for Interaction
 studenten (Industrieel Ontwerpen, TU Delft). Dankzij Virginia’s rationaliteit en liefde voor structuur, Rijks
@@ -91,7 +87,7 @@ worden door haar toekomstige gebruikers.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Wat doen we bij TU Delft<br> Industrieel Ontwerpen?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Hoe ontwikkelen we steden die leefbaarder, gezonder, duurzamer en inclusiever zijn voor
 iedereen? Enkele Delft Design-onderzoekers buigen zich over deze en gerelateerde vragen.
 Ook <a href="https://www.youtube.com/watch?v=co3q_DAEt1E"><u>Assistant Professor Achilleas Psyllidis</u></a>, die data inzet om te bekijken op welke manier

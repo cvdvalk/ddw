@@ -9,11 +9,8 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker001.jpeg" alt="Card image cap"  
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+<a href="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker001.jpeg" target="_blank"><img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker001.jpeg" alt="Card image cap"
+class="main-image"></a>
 <br> 
 
 
@@ -22,7 +19,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">Speculative Toastie Maker</h1>
 <h3 class="text-center NeueMachina-h4">How do we design products that last a lifetime?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 This ongoing master's graduation project aims to develop an approach to design products with enhanced
 durability. This research doesn't solely focus on extending the physical longevity and repairability of
 objects to extend their lifespan; it places equal importance on their emotional durability. <br>
@@ -52,10 +49,10 @@ insights and input will play an important role in shaping the next stage of the 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" alt="Card image cap">
+      <a href="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" target="_blank"><img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker003.jpeg" alt="Card image cap">
+      <a href="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker003.jpeg" target="_blank"><img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker003.jpeg" alt="Card image cap"></a>
     </div>
   </div>
   <br>
@@ -66,7 +63,7 @@ insights and input will play an important role in shaping the next stage of the 
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
 <img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Chris Vooren (1998) holds a personal belief in the value of repairing, but recognises the equal importance
 of what precedes – the desire to repair. Her specific interest lies in the everyday objects that surround us
 and seem fixed in their existence, and how they will position themselves within this graduation research.
@@ -84,7 +81,7 @@ the original object and take the first steps in redesigning it.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">What we do at TU Delft<br> Industrial Design Engineering?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 At TU Delft Industrial Design Engineering we have a big focus on repairability and the circular economy.
 Classes such as the Bachelor courses Design for Sustainability and Understanding Product Engineering
 and the Master elective Repair! contribute to this. Furthermore researchers such as, professors 

@@ -9,11 +9,8 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" alt="Card image cap"
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+<a href="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" target="_blank"><img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" alt="Card image cap"
+class="main-image"></a>
 <br> 
 
 
@@ -22,7 +19,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">Personal Companion POS</h1>
 <h3 class="text-center NeueMachina-h4">Worden wij vrienden met robots</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Tegen 2030 domineert het Abonnement-tijdperk, waarbij de traditionele waarde van eigendom werd
 verdrongen ten gunste van wegwerpbaarheid en gemak. Het huren van woningen was al lange tijd een
 trend, maar in dit tijdperk staat alles te huur. Apparaten, uitgerust met sensoren, rekenen gebruikers
@@ -51,10 +48,10 @@ commodificeren en uitbesteden van de meest intieme aspecten van ons leven.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS002.png" alt="Card image cap">
+      <a href="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS002.png" target="_blank"><img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS002.png" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS003.jpg" alt="Card image cap">
+      <a href="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS003.jpg" target="_blank"><img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS003.jpg" alt="Card image cap"></a>
     </div>
   </div>
 </div>
@@ -64,7 +61,7 @@ commodificeren en uitbesteden van de meest intieme aspecten van ons leven.
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
 <img src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Eric Gu's (1991) reis naar de wereld van AI begon onverwacht terwijl hij onderzocht of hij een cyborg kon
 worden. Gedurende de afgelopen zeven jaar heeft hij het delicate evenwicht tussen mensgericht ontwerp
 en het enorme potentieel van AI verkend.<br><br>
@@ -86,7 +83,7 @@ soorten wezens.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Wat doen we bij TU Delft<br> Industrieel Ontwerpen?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 AI komt steeds vaker voor in de wereld om ons heen - in alles van robots tot koelkasten en
 kleding. Nu deze producten hun intrede doen in ons professionele, sociale en zelfs intieme
 privéleven, onderzoekt het 

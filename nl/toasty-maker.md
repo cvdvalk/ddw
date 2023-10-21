@@ -9,11 +9,8 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker001.jpeg" alt="Card image cap"
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+<a href="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker001.jpeg" target="_blank"><img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker001.jpeg" alt="Card image cap"
+class="main-image"></a>
 <br> 
 
 
@@ -22,7 +19,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">Speculative Toastie Maker</h1>
 <h3 class="text-center NeueMachina-h4">Hoe ontwerpen we apparaten die levenslang meegaan?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 In dit lopende afstudeerproject voor het masterproject van student Chris Vooren ontwikkelt zij een
 benadering om producten te ontwerpen die langer meegaan. Dit onderzoek richt zich niet alleen op het
 verlengen van fysieke levensduur en reparatiemogelijkheden van objecten om hun levensduur te
@@ -55,10 +52,10 @@ belangrijke rol spelen bij het volgende ontwerpstadium.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" alt="Card image cap">
+      <a href="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" target="_blank"><img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker003.jpeg" alt="Card image cap">
+      <a href="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker003.jpeg" target="_blank"><img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker003.jpeg" alt="Card image cap"></a>
     </div>
   </div>
   <br>
@@ -69,7 +66,7 @@ belangrijke rol spelen bij het volgende ontwerpstadium.
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
 <img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Chris Vooren (1998) holds a personal belief in the value of repairing, but recognises the equal importance
 of what precedes – the desire to repair. Her specific interest lies in the everyday objects that surround us
 and seem fixed in their existence, and how they will position themselves within this graduation research.
@@ -87,7 +84,7 @@ the original object and take the first steps in redesigning it.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Wat doen we bij TU Delft<br> Industrieel Ontwerpen?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 We hebben bij TU Delft Industrieel Ontwerpen een grote focus op repareerbaarheid en circulaire
 economie. Opleidingen zoals de bachelorvakken Design for Sustainability en Understanding Product
 Engineering en het mastervak ‘Repair!’ dragen hier aan bij. Daarnaast verdiepen onderzoekers zoals

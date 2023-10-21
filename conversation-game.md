@@ -9,11 +9,8 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/08ConversationGame/ConversationGame001.jpg" alt="Card image cap"
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+<a href="/assets/img/08ConversationGame/ConversationGame001.jpg" target="_blank"><img src="/assets/img/08ConversationGame/ConversationGame001.jpg" alt="Card image cap"
+class="main-image"></a>
 <br> 
 
 
@@ -22,7 +19,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">Conversation Game</h1>
 <h3 class="text-center NeueMachina-h4">Do you really listen to others?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 In a society more obsessed than ever with improving its mental health, rising diagnoses suggest a
 troubling paradox. Although we claim to be more connected to more people than ever before, the
 numbers show that we feel increasingly alone and less understood by those around us. In a society
@@ -55,10 +52,10 @@ show curiosity about negativity, even if it feels daunting in a society geared o
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/08ConversationGame/ConversationGame002.jpg" alt="Card image cap">
+      <a href="/assets/img/08ConversationGame/ConversationGame002.jpg" target="_blank"><img src="/assets/img/08ConversationGame/ConversationGame002.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <img src="/assets/img/08ConversationGame/ConversationGame003.jpg" alt="Card image cap">
+      <a href="/assets/img/08ConversationGame/ConversationGame003.jpg" target="_blank"><img src="/assets/img/08ConversationGame/ConversationGame003.jpg" alt="Card image cap"></a>
     </div>
   </div>
 </div>
@@ -68,7 +65,7 @@ show curiosity about negativity, even if it feels daunting in a society geared o
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
 <img src="/assets/img/08ConversationGame/ConversationGame-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 <b>Leon van Klaveren (1998)</b><br>
 Driven by the personal urgency of seeing close acquaintances struggle with their mental wellbeing, Leon
 van Klaveren began a journey to deepen understanding of this pressing issue through his graduation
@@ -106,7 +103,7 @@ with the inevitable stressors of modern society.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">What we do at TU Delft<br> Industrial Design Engineering?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 The perspective of people is a key facet of design education and research at the Faculty. In other words,
 understanding human needs, abilities and behaviour in an ever-changing world. And applying that
 knowledge to design for societal good.

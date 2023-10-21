@@ -9,11 +9,8 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" alt="Card image cap" 
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+<a href="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" target="_blank"><img src="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" alt="Card image cap" 
+class="main-image"></a>
 <br> 
 
 
@@ -22,7 +19,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">The Personal Press</h1>
 <h3 class="text-center NeueMachina-h4">Hoe objectief is het nieuws nu eigenlijk?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Nieuwsmedia bepalen voor een groot deel ons wereldbeeld. Woorden bepalen eigenlijk het perspectief
 van een onderwerp. Dit zien we terug in verschillende nieuwsmedia: sommige hebben een conservatief
 perspectief, terwijl andere meer ''social media-vriendelijke'' content produceren. Wat als Language
@@ -54,10 +51,10 @@ en lokken verdere vragen uit over wie verantwoordelijkheid zou moeten nemen over
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/05ThePersonalPress/ThePersonalPress002.jpg" alt="Card image cap">
+      <a href="/assets/img/05ThePersonalPress/ThePersonalPress002.jpg" target="_blank"><img src="/assets/img/05ThePersonalPress/ThePersonalPress002.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <img src="/assets/img/05ThePersonalPress/ThePersonalPress003.jpg" alt="Card image cap">
+      <a href="/assets/img/05ThePersonalPress/ThePersonalPress003.jpg" target="_blank"><img src="/assets/img/05ThePersonalPress/ThePersonalPress003.jpg" alt="Card image cap"></a>
     </div>
   </div>
 </div>
@@ -67,7 +64,7 @@ en lokken verdere vragen uit over wie verantwoordelijkheid zou moeten nemen over
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
 <img src="/assets/img/05ThePersonalPress/ThePersonalPress-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Dit team van makers bestaat uit vier master studenten van Design for Interaction<br>
 <b>Neslihan Can (2000)</b>: Een speelse ontwerper die haar ontwerpen tot leven brengt middels schetsen<br>
 <b>Sukriti Garg (1996)</b>: Als ontwerper gelooft ze dat ontwerpen geen skillset is, maar een mindset<br>
@@ -88,7 +85,7 @@ Het project is ontstaan uit het vak ‘Interactive Technology Design’ in de ma
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Wat doen we bij TU Delft<br> Industrieel Ontwerpen?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Designonderzoekers aan de TU Delft zorgen ervoor dat er rekening gehouden wordt met
 menselijke behoeften in onze snel ontwikkelende AI-wereld. Ze werken samen met
 computerwetenschappers en ethische experts in een realistische context. En ze helpen

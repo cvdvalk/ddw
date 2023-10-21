@@ -9,11 +9,8 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" alt="Card image cap"
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+<a href="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" alt="Card image cap"
+class="main-image"></a>
 <br> 
 
 
@@ -22,7 +19,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">Unconscious Bias</h1>
 <h3 class="text-center NeueMachina-h4">Are society & systems designed to fit you?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 This installation holds up a mirror to society, with the idea of exclusion at the core. Each of us at some
 point encounters a product that fails to match up to our mental ability, body shape or motor skills. In a
 world in which we want our products to be more sustainable, wouldn’t it be cool if every product was fit for
@@ -51,16 +48,16 @@ can do.’
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/03UnconsciousBias/UnconsciousBias002.jpg" alt="Card image cap">
+      <a href="/assets/img/03UnconsciousBias/UnconsciousBias002.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias002.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <img src="/assets/img/03UnconsciousBias/UnconsciousBias003.jpg" alt="Card image cap">
+      <a href="/assets/img/03UnconsciousBias/UnconsciousBias003.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias003.jpg" alt="Card image cap"></a>
     </div>
   </div>
   <br>
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/03UnconsciousBias/UnconsciousBias004.jpg" alt="Card image cap">
+      <a href="/assets/img/03UnconsciousBias/UnconsciousBias004.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias004.jpg" alt="Card image cap"></a>
     </div>
   </div>
 </div>
@@ -70,7 +67,7 @@ can do.’
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
 <img src="/assets/img/03UnconsciousBias/UnconsciousBias-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 We are marrenathan design, an avant-gardist design duo from Delft that does not necessarily make the
 world more beautiful. Marre van der Schee (1998) and Nathan Douenburg (2001) met during their first
 year at Industrial Design Engineering at TU Delft. Their first project during a course on design and
@@ -104,7 +101,7 @@ perspective on the products, services, and systems around us.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">What we do at TU Delft<br> Industrial Design Engineering?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Students and researchers are working to make a fairer, more inclusive society through courses
 (for example Inclusive Design and Culture Sensitive Design) and through labs, including the
 <a href="https://delftdesignlabs.org/inclusive-design-lab/" target="_blank"><u>Inclusive Design Lab</u></a>

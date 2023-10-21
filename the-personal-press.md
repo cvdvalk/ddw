@@ -9,11 +9,8 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<img src="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" alt="Card image cap" 
-  style="max-height:500px;
-    max-width:500px;
-    height:auto;
-    width:auto;">
+<a href="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" target="_blank"><img src="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" alt="Card image cap" 
+class="main-image"></a>
 <br> 
 
 
@@ -22,7 +19,7 @@ header_img: assets/img/mini-banner.png
 <div class="card-body">
 <h1 class="card-title text-center NeueMachina-project">The Personal Press</h1>
 <h3 class="text-center NeueMachina-h4">In fact, just how objective is the news?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Right now, our individual choice of news platforms are already shaping our worldviews. Words essentially
 define the perception of a topic we are reading about. We can see that in different news outlets: some
 have a very conservative perspective, while others are focused on being ''social media-able''. So, what if
@@ -53,10 +50,10 @@ should be responsible for these prompts.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img src="/assets/img/05ThePersonalPress/ThePersonalPress002.jpg" alt="Card image cap">
+      <a href="/assets/img/05ThePersonalPress/ThePersonalPress002.jpg" target="_blank"><img src="/assets/img/05ThePersonalPress/ThePersonalPress002.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <img src="/assets/img/05ThePersonalPress/ThePersonalPress003.jpg" alt="Card image cap">
+      <a href="/assets/img/05ThePersonalPress/ThePersonalPress003.jpg" target="_blank"><img src="/assets/img/05ThePersonalPress/ThePersonalPress003.jpg" alt="Card image cap"></a>
     </div>
   </div>
 </div>
@@ -66,7 +63,7 @@ should be responsible for these prompts.
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
 <img src="/assets/img/05ThePersonalPress/ThePersonalPress-ProfileImage.jpg" alt="Card image cap">
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 This team of makers is made up of four MsC students studying Design for Interaction at TU Delft, namely:<br><br>
 <b>Neslihan</b>: a playful designer who brings her designs to life through her sketches.<br>
 <b>Sukriti</b>: as a designer she believes that design is a not a skillset but a mindset.<br>
@@ -99,7 +96,7 @@ message they wanted to convey.
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">What we do at TU Delft<br> Industrial Design Engineering?</h3>
-  <div class="card-body text-center" style="margin-left: 2rem;margin-right: 2rem;">
+  <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
 Design researchers at TU Delft work to make sure that human needs are incorporated into the
 rapidly developing world of AI. They collaborate with computer scientists and ethics experts in
 real world settings and help translate abstract AI concepts into tangible designs to generate new
