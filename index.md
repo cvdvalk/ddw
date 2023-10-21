@@ -1,26 +1,25 @@
 ---
 layout: default
-# title-heading: false
-# title: Dutch Design Week
+title: Dutch Design Week
 name: true
 title: false
 header_type: image
-# subtitle: Dutch Design Week
-# header_img: assets/img/TUdelft-EmailBanners-ENG.png
+subtitle: TU DELFT INDUSTRIAL DESIGN ENGINEERING PRESENTS THEIR EXHIBITION AT DUTCH DESIGN WEEK  // 21 – 29 OCTOBER 2023 AT AREA51 (BASEMENT)
 header_img: assets/img/TUdelft-EmailBanners-ENGtrans.png
 
 ---
+
+
 <div class="card shadow videoWrapper">
 <iframe width="720" height="299" src="https://www.youtube.com/embed/-Cq_jbJ-F7Q" title="DREAM. DISCOVER. DESIGN. - TU Delft Industrial Design Engineering at Dutch Design Week 2023 (teaser)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>  
 <br>
-
 <div class="card shadow text-center white-card">
   <div class="card-body">
-    <h3 class="card-title NeueMachina-h3">How would you design<br> the perfect world?</h3>
+    <h3 class="card-title NeueMachina-h3">YAAASSS, WE’RE OPEN!!!</h3>
     <p class="card-text open-sans">
-Designers from <a href="https://www.tudelft.nl/ide" target="_blank"><u class="NeueMachina">TU Delft Industrial Design Engineering</u></a> invite you to come explore their futuristic dream worlds in our <span class="NeueMachina">immersive experience at Dutch Design Week 2023.</span> Expect to <span class="NeueMachina">be surprised</span> by their interactive installations, that make you wonder how we can redesign for a better society: Where products are truly sustainable, people are equal and really happy, and where technology instead of dividing us, connects us. 
-</p>
+<b class="NeueMachina">How would you design the perfect world?</b> Designers from <a href="https://www.tudelft.nl/ide" target="_blank"><u class="NeueMachina">TU Delft Industrial Design Engineering</u></a> invite you to come explore their futuristic dream worlds in our <span class="NeueMachina">immersive experience at Dutch Design Week 2023.</span> Expect to <span class="NeueMachina">be surprised</span> by their interactive installations, that make you wonder how we can redesign for a better society: Where products are truly sustainable, people are equal and really happy, and where technology instead of dividing us, connects us. 
+</p> 
 
 <p class="card-text open-sans">
 There is something exciting for anyone! Release all your stress in our Mind Muscle Club gym, share your thoughts with <span class="NeueMachina">talking bench Bruno, design your own robot friend</span>, and many more to discover!
@@ -41,40 +40,122 @@ Open daily 11:00 – 18:00, no ticket needed
 </div>
 <br>
 
-<div class="card shadow text-center orange-card">
+<div class="card shadow white-default-card" style="margin-bottom:1rem;">
   <div class="card-body">
-    <h3 class="card-title NeueMachina-h3">What is your dream<br> for the future?</h3>
-    <p class="card-text open-sans">
-A world inequality does not exist? Where we don’t have fossil fuels anymore? Or where robots take over?<br>
-<span class="NeueMachina">Become part of an artwork</span> at our DREAM. DISCOVER. DESIGN. exhibition at Dutch Design Week! <span class="NeueMachina">Fill in your dream</span> here and check it at from 21 – 29 October 2023 at Area51 basement
-</p>
-
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfdc1unbcgQZHS4Lb-pI-a1Q9STDNdGm39bc_eG18JwBc5DZA/formResponse" method="POST">
-        <div class="form-row align-items-center">
-            <div class="col">
-                <!-- <label><i>I am dreaming of a world with...</i></label> -->
-<textarea id="freeform"  class="text-center" name="entry.611985276" required rows="4" style="min-width: 100%" placeholder="I am dreaming of a world with …"></textarea>
-            </div>
-        </div>
-        <p class="open-sans"><i>Leave your name and email address to update you about our exhibition*</i></p>
-        <div class="form-group">
-            <!-- <label>Name:</label><br> -->
-            <input class="form-control text-center" name="entry.1065905976" required type="text" placeholder="Fill in your first name" style="background-color: white"/>
-        </div>
-        <div class="form-group">
-            <!-- <label>Name:</label><br> -->
-            <input class="form-control text-center" name="entry.1327196650" required type="text" placeholder="Fill in your last name" style="background-color: white"/>
-        </div>
-        <div class="form-group">
-            <!-- <label>Email:</label><br> -->
-            <input class="form-control text-center" name="entry.1561828014" required type="text" placeholder="Fill in your email address here" style="background-color: white"/>
-        </div>
-        <p class="open-sans"><i>*By submitting you consent to receiving updates about this exhibition in the future
-</i></p>
-        <input type="submit" value="SUBMIT" class="btn btn-primary NeueMachina">
-        <!-- <h3>SEE YOU SOON!</h3> -->
-    </form>
+<h3 class="card-title NeueMachina-h3 text-center">Discover the world of<br> TU Delft Designers<br> via our installations</h3>
+<br>
+<div class="card-deck">
+<div class="card toast-card" style="margin-bottom:1rem;">
+    <a href="/toasty-maker"><img class="card-img-top" src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Speculative <br>Toastie Maker</b></p>
+        <p class="card-text" style="margin-left:0rem;margin-bottom:0rem;"> Chris Vooren’s ongoing master's graduation project aims to develop an approach to design products with enhanced durability. This research doesn't …</p>
+        <br>
+          <!-- <a href="/toasty-maker" class="btn btn-primary NeueMachina">READ MORE</a> -->
+      </div>
+      <div class="card-footer text-center">
+        <a href="/toasty-maker" class="btn btn-primary NeueMachina">READ MORE</a>
+      </div>
   </div>
-</div>
+    <div class="card bruno-card" style="margin-bottom:1rem;">
+    <a href="/bruno-the-bench"><img class="card-img-top" src="/assets/img/02BrunoTheBench/BrunoTheBench001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Bruno<br> The Bench</b></p>
+        <p class="card-text"> Today, only a select few hold the power in urban planning. A large number of citizens are excluded from the …</p>
+        <!-- <a href="/bruno-the-bench" class="btn btn-primary NeueMachina">READ MORE</a> -->
+      </div>
+      <div class="card-footer text-center">
+        <a href="/bruno-the-bench" class="btn btn-primary NeueMachina">READ MORE</a>
+      </div>
+    </div>
+  </div>
+
+
 <br>
 
+<div class="card-deck">
+<div class="card bias-card" style="margin-bottom:1rem;">
+    <a href="/unconscious-bias"><img class="card-img-top" src="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Unconscious Bias</b></p>
+        <p class="card-text"> This installation holds up a mirror to society, with the idea of exclusion at the core. Each of us at …</p>
+      </div>
+      <div class="card-footer text-center">
+          <a href="/unconscious-bias" class="btn btn-primary NeueMachina">READ MORE</a>
+        </div>
+    </div> 
+    <div class="card mike-card" style="margin-bottom:1rem;">
+    <a href="/m-i-k-e"><img class="card-img-top" src="/assets/img/04MIKE/MIKE001.JPG" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>M-I-K-E</b></p>
+        <p class="card-text"> In an increasingly urbanised and high-tech world where nature is disappearing, primarily because of human activity, it is important to …</p>
+        <!-- <a href="/m-i-k-e" class="btn btn-primary NeueMachina">READ MORE</a> -->
+      </div>
+      <div class="card-footer text-center">
+        <a href="/m-i-k-e" class="btn btn-primary NeueMachina">READ MORE</a>
+      </div>
+    </div>
+
+  </div>
+<br>
+
+<div class="card-deck">
+    <div class="card press-card" style="margin-bottom:1rem;">
+    <a href="/the-personal-press"><img class="card-img-top" src="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>The Personal Press</b></p>
+        <p class="card-text"> Right now, our individual choice of news platforms are already shaping our worldviews. Words essentially define the perception of a …</p>
+        <!-- <a href="/the-personal-press" class="btn btn-primary NeueMachina">READ MORE</a> -->
+      </div>
+      <div class="card-footer text-center">
+        <a href="/the-personal-press" class="btn btn-primary NeueMachina">READ MORE</a>
+      </div>
+    </div>
+    <div class="card pos-card" style="margin-bottom:1rem;">
+    <a href="/personal-companion-pos"><img class="card-img-top" src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Personal Companion POS</b></p>
+        <p class="card-text"> By 2030, the Subscription Era dominated, pushing the traditional value of ownership aside in favour of disposability and convenience. While …</p>
+        <!-- <a href="/personal-companion-pos" class="btn btn-primary NeueMachina">READ MORE</a> -->
+      </div>
+      <div class="card-footer text-center">
+        <a href="/personal-companion-pos" class="btn btn-primary NeueMachina">READ MORE</a>
+      </div>
+    </div>
+  </div>
+
+<br>
+<div class="card-deck">
+<div class="card muscle-card" style="margin-bottom:1rem;">
+    <a href="/mind-muscle-club"><img class="card-img-top" src="/assets/img/07MIndMuscleClub/MIndMuscleClub001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Mind Muscle Club</b></p>
+        <p class="card-text"> Mind Muscle Club is a welcoming and innovative place which changes how we think about mental health. It is a …</p>
+        <!-- <a href="/mind-muscle-club" class="btn btn-primary NeueMachina">READ MORE</a> -->
+      </div>
+      <div class="card-footer text-center">
+        <a href="/mind-muscle-club" class="btn btn-primary NeueMachina">READ MORE</a>
+      </div>
+    </div>
+    <div class="card conv-card" style="margin-bottom:1rem;">
+    <a href="/conversation-game"><img class="card-img-top" src="/assets/img/08ConversationGame/ConversationGame001-mini.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
+      <div class="card-body text-center">
+        <p class="card-title NeueMachina" style="font-size:25px"><b>Conversation Game</b></p>
+        <p class="card-text"> In a society more obsessed than ever with improving its mental health, rising diagnoses suggest a troubling paradox. Although we …</p>
+        <!-- <a href="/conversation-game" class="btn btn-primary NeueMachina">READ MORE</a> -->
+      </div>
+      <div class="card-footer text-center">
+        <a href="/conversation-game" class="btn btn-primary NeueMachina">READ MORE</a>
+      </div>
+  </div>
+</div>
+    </div>
+  </div>
+
+
+<div class="card text-center  blue-card shadow">
+  <div class="card-body">
+    <h5 class="card-title NeueMachina-h4" style="color:white;">WANT TO KNOW MORE ABOUT <br>TU DELFT AND STUDYING HERE?</h5>
+    <a href="https://www.tudelft.nl/en/education/practical-matters/studying-at-tu-delft" class="btn btn-primary NeueMachina">YES PLEASE!</a>
+  </div>
+</div>

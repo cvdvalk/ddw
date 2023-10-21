@@ -42,10 +42,10 @@ Clubs become as commonplace as physical gyms are today.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/07MIndMuscleClub/MIndMuscleClub002.jpg" target="_blank"><img src="/assets/img/07MIndMuscleClub/MIndMuscleClub002.jpg" alt="Card image cap">
+      <a href="/assets/img/07MIndMuscleClub/MIndMuscleClub002.jpg" target="_blank"><img src="/assets/img/07MIndMuscleClub/MIndMuscleClub002.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <a href="/assets/img/07MIndMuscleClub/MIndMuscleClub003.png" target="_blank"><img src="/assets/img/07MIndMuscleClub/MIndMuscleClub003.png" alt="Card image cap">
+      <a href="/assets/img/07MIndMuscleClub/MIndMuscleClub003.png" target="_blank"><img src="/assets/img/07MIndMuscleClub/MIndMuscleClub003.png" alt="Card image cap"></a>
     </div>
   </div>
 </div>

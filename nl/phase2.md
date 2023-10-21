@@ -54,7 +54,7 @@ Elke dag van11:00 – 18:00, geen ticket nodig
 <h3 class="card-title NeueMachina-h3 text-center">Discover the world of<br> TU Delft Designers<br> via our installations</h3>
 <br>
 <div class="card-deck">
-<div class="card toast-card" style="margin-left:2rem;margin-bottom:1rem;">
+<div class="card toast-card" style="margin-bottom:1rem;">
     <a href="/nl/toasty-maker"><img class="card-img-top" src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Speculative <br>Toastie Maker</b></p>
@@ -66,7 +66,7 @@ Elke dag van11:00 – 18:00, geen ticket nodig
         <a href="/nl/toasty-maker" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
   </div>
-    <div class="card bruno-card" style="margin-right:2rem;margin-bottom:1rem;">
+    <div class="card bruno-card" style="margin-bottom:1rem;">
     <a href="/nl/bruno-the-bench"><img class="card-img-top" src="/assets/img/02BrunoTheBench/BrunoTheBench001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Bruno<br> The Bench</b></p>
@@ -83,7 +83,7 @@ Elke dag van11:00 – 18:00, geen ticket nodig
 <br>
 
 <div class="card-deck">
-<div class="card bias-card" style="margin-left:2rem;margin-bottom:1rem;">
+<div class="card bias-card" style="margin-bottom:1rem;">
     <a href="/nl/unconscious-bias"><img class="card-img-top" src="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Unconscious Bias</b></p>
@@ -94,7 +94,7 @@ Elke dag van11:00 – 18:00, geen ticket nodig
           <a href="/nl/unconscious-bias" class="btn btn-primary NeueMachina">LEES VERDER</a>
         </div>
     </div> 
-    <div class="card mike-card" style="margin-right:2rem;margin-bottom:1rem;">
+    <div class="card mike-card" style="margin-bottom:1rem;">
     <a href="/nl/m-i-k-e"><img class="card-img-top" src="/assets/img/04MIKE/MIKE001.JPG" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>M-I-K-E</b></p>
@@ -110,7 +110,7 @@ Elke dag van11:00 – 18:00, geen ticket nodig
 <br>
 
 <div class="card-deck">
-    <div class="card press-card" style="margin-left:2rem;margin-bottom:1rem;">
+    <div class="card press-card" style="margin-bottom:1rem;">
     <a href="/nl/the-personal-press"><img class="card-img-top" src="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>The Personal Press</b></p>
@@ -121,7 +121,7 @@ Elke dag van11:00 – 18:00, geen ticket nodig
         <a href="/nl/the-personal-press" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
     </div>
-    <div class="card pos-card" style="margin-right:2rem;margin-bottom:1rem;">
+    <div class="card pos-card" style="margin-bottom:1rem;">
     <a href="/nl/personal-companion-pos"><img class="card-img-top" src="/assets/img/06PersonalCompanionPOS/PersonalCompanionPOS001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Personal Companion POS</b></p>
@@ -136,7 +136,7 @@ Elke dag van11:00 – 18:00, geen ticket nodig
 
 <br>
 <div class="card-deck">
-<div class="card muscle-card" style="margin-left:2rem;margin-bottom:1rem;">
+<div class="card muscle-card" style="margin-bottom:1rem;">
     <a href="/nl/mind-muscle-club"><img class="card-img-top" src="/assets/img/07MIndMuscleClub/MIndMuscleClub001.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Mind Muscle Club</b></p>
@@ -147,7 +147,7 @@ Elke dag van11:00 – 18:00, geen ticket nodig
         <a href="/nl/mind-muscle-club" class="btn btn-primary NeueMachina">LEES VERDER</a>
       </div>
     </div>
-    <div class="card conv-card" style="margin-right:2rem;margin-bottom:1rem;">
+    <div class="card conv-card" style="margin-bottom:1rem;">
     <a href="/nl/conversation-game"><img class="card-img-top" src="/assets/img/08ConversationGame/ConversationGame001-mini.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Conversation Game</b></p>
