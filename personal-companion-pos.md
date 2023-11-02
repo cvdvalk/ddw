@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personal Companion POS
+title: Personal Companion POS |
 header_type: image
 # subtitle: Alumni
 # header_img: assets/img/TUdelft-EmailBanners-ENG.png

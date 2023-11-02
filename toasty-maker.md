@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Speculative Toastie Maker
+title: Speculative Toastie Maker |
 header_type: image
 # subtitle: Alumni
 # header_img: assets/img/TUdelft-EmailBanners-ENG.png

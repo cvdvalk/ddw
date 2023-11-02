@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Personal Press
+title: The Personal Press |
 header_type: image
 # subtitle: Alumni
 # header_img: assets/img/TUdelft-EmailBanners-ENG.png

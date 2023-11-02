@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M.I.K.E.
+title: M.I.K.E. |
 header_type: image
 # subtitle: Alumni
 # header_img: assets/img/TUdelft-EmailBanners-ENG.png

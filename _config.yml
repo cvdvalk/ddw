@@ -8,10 +8,10 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : TUD at DDW    #default["repository_name"]
-title_separator         :     #default [" | "]
-subtitle                :     #default [your-repository-tagline]  
-description             : Delft Design Week 2023 #default [your-repository-tagline]
+title                   :     DREAM. DISCOVER. DESIGN. | TU Delft IDE’S first expo at DDW    #default["repository_name"]
+title_separator         :     " " #default [" | "]
+subtitle                :     
+description             :     Delft at Dutch Design Week 2023 #default [your-repository-tagline]
 url                     :     https://delftdesignatddw.nl #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
 baseurl                 :      #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]

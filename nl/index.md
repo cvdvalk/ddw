@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Dutch Design Week
+title: " "
+# subtitle: TU Delft IDE’S first expo at DDW
+# description: 
 name: true
-title: false
+# title: false
 header_type: image
 subtitle: TU DELFT INDUSTRIAL DESIGN ENGINEERING PRESENTS THEIR EXHIBITION AT DUTCH DESIGN WEEK  // 21 – 29 OCTOBER 2023 AT AREA51 (BASEMENT)
 header_img: assets/img/TUdelft-EmailBanners-ENGtrans.png
 
 ---
-
 
 <div class="card shadow videoWrapper">
 <iframe width="720" height="299" src="https://www.youtube.com/embed/-Cq_jbJ-F7Q" title="DREAM. DISCOVER. DESIGN. - TU Delft Industrial Design Engineering at Dutch Design Week 2023 (teaser)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

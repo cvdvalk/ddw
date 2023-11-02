@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mind Muscle Club
+title: Mind Muscle Club |
 header_type: image
 # subtitle: Alumni
 # header_img: assets/img/TUdelft-EmailBanners-ENG.png

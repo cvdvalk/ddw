@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conversation Game
+title: Conversation Game |
 header_type: image
 # subtitle: Alumni
 # header_img: assets/img/TUdelft-EmailBanners-ENG.png

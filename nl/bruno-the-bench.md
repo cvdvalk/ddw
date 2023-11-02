@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bruno The Bench
+title: Bruno The Bench |
 header_type: image
 # subtitle: Alumni
 # header_img: assets/img/TUdelft-EmailBanners-ENG.png

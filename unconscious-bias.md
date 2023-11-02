@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unconscious Bias
+title: Unconscious Bias |
 header_type: image
 # subtitle: Alumni
 # header_img: assets/img/TUdelft-EmailBanners-ENG.png
