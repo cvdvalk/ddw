@@ -97,6 +97,24 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
+  - title : Projects
+    child: 
+      - title: Speculative Toastie Maker
+        url : /toasty-maker/
+      - title: Bruno The Bench
+        url : /bruno-the-bench/
+      - title: Unconscious Bias
+        url : /unconscious-bias/
+      - title: M-I-K-E
+        url : /m-i-k-e/
+      - title: The Personal Press
+        url : /the-personal-press/
+      - title: Personal Companion POS
+        url : /personal-companion-pos/
+      - title: Mind Muscle Club
+        url : /mind-muscle-club/
+      - title: Conversation Game
+        url : /conversation-game/
   - title : About
     child:
       - title: English
@@ -109,6 +127,7 @@ navbar:
         url: /
       - title: Nederlands
         url: /nl/
+
 #Social links to be placed on your site footer
 footer:
   links:

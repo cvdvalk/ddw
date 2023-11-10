@@ -9,7 +9,7 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<a href="/assets/img/Per project/Bruno - Top.jpg" target="_blank"><img src="/assets/img/Per project/Bruno - Top.jpg" alt="Card image cap" 
+<a href="/assets/img/Per project compressed/Bruno - Top.jpg" target="_blank"><img src="/assets/img/Per project compressed/Bruno - Top.jpg" alt="Card image cap" 
 class="main-image"></a>
 <br> 
 
@@ -49,15 +49,15 @@ stad.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/Per project/Bruno - 1.jpg" target="_blank"><img src="/assets/img/Per project/Bruno - 1.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project compressed/Bruno - 1.jpg" target="_blank"><img src="/assets/img/Per project compressed/Bruno - 1.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <a href="/assets/img/Per project/Bruno - 3.jpg" target="_blank"><img src="/assets/img/Per project/Bruno - 3.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project compressed/Bruno - 3.jpg" target="_blank"><img src="/assets/img/Per project compressed/Bruno - 3.jpg" alt="Card image cap"></a>
     </div>
   </div><br>
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/Per project/Bruno - 2.jpg" target="_blank"><img src="/assets/img/Per project/Bruno - 2.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project compressed/Bruno - 2.jpg" target="_blank"><img src="/assets/img/Per project compressed/Bruno - 2.jpg" alt="Card image cap"></a>
     </div>
   </div>
   <br>

@@ -9,7 +9,7 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<a href="/assets/img/Per project/MIKE - Top.jpg" target="_blank"><img src="/assets/img/Per project/MIKE - Top.jpg" alt="Card image cap"
+<a href="/assets/img/Per project compressed/MIKE - Top.jpg" target="_blank"><img src="/assets/img/Per project compressed/MIKE - Top.jpg" alt="Card image cap"
 class="main-image"></a>
 <br> 
 
@@ -54,16 +54,16 @@ bezoeker vertrekt met meer empathie voor de natuur en een beter begrip hiervan.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/Per project/MIKE - 1.jpg" target="_blank"><img src="/assets/img/Per project/MIKE - 1.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project compressed/MIKE - 1.jpg" target="_blank"><img src="/assets/img/Per project compressed/MIKE - 1.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <a href="/assets/img/Per project/MIKE- 2.JPG" target="_blank"><img src="/assets/img/Per project/MIKE- 2.JPG" alt="Card image cap"></a>
+      <a href="/assets/img/Per project compressed/MIKE- 2.JPG" target="_blank"><img src="/assets/img/Per project compressed/MIKE- 2.JPG" alt="Card image cap"></a>
     </div>
   </div>
   <br>
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/Per project/MIKE - 3.jpg" target="_blank"><img src="/assets/img/Per project/MIKE - 3.jpg" alt="Card image cap" class="main-image"></a>
+      <a href="/assets/img/Per project compressed/MIKE - 3.jpg" target="_blank"><img src="/assets/img/Per project compressed/MIKE - 3.jpg" alt="Card image cap" class="main-image"></a>
     </div>
   </div>
 </div>
