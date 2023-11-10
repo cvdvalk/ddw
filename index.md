@@ -58,7 +58,7 @@ on behalf of the organizing committee</i>
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <a href="/assets/img/Carousel/1.jpg" target="_blank">><img class="d-block w-100" src="/assets/img/Carousel/1.jpg" alt="First slide"></a>
+      <img class="d-block w-100" src="/assets/img/Carousel/1.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/img/Carousel/2.jpg" alt="Second slide">

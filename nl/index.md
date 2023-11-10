@@ -8,7 +8,6 @@ name: true
 header_type: image
 subtitle: TU DELFT INDUSTRIAL DESIGN ENGINEERING PRESENTS THEIR EXHIBITION AT DUTCH DESIGN WEEK  // 21 – 29 OCTOBER 2023 AT AREA51 (BASEMENT)
 header_img: assets/img/TUdelft-EmailBanners-ENGtrans.png
-
 ---
 
 <div class="card shadow videoWrapper">

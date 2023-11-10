@@ -97,6 +97,12 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
+  - title : About
+    child:
+      - title: English
+        url: /about
+      - title: Nederlands
+        url: /nl/about
   - title   : Language # Label
     child:
       - title: English
