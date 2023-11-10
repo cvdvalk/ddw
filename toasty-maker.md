@@ -9,7 +9,7 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<a href="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker001.jpeg" target="_blank"><img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker001.jpeg" alt="Card image cap"
+<a href="/assets/img/Per project/Toastie Maker - Top.jpg" target="_blank"><img src="/assets/img/Per project/Toastie Maker - Top.jpg" alt="Card image cap"
 class="main-image"></a>
 <br> 
 
@@ -49,10 +49,15 @@ insights and input will play an important role in shaping the next stage of the 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" target="_blank"><img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker002.jpeg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project/Toastie Maker - 1.jpg" target="_blank"><img src="/assets/img/Per project/Toastie Maker - 1.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <a href="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker003.jpeg" target="_blank"><img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker003.jpeg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project/Toastie Maker - 2.jpg" target="_blank"><img src="/assets/img/Per project/Toastie Maker - 2.jpeg" alt="Card image cap"></a>
+    </div>
+  </div><br>
+  <div class="row">
+    <div class="col-sm">
+      <a href="/assets/img/Per project/Toastie Maker - 3.jpg" target="_blank"><img src="/assets/img/Per project/Toastie Maker - 3.jpg" alt="Card image cap"></a>
     </div>
   </div>
   <br>

@@ -9,7 +9,7 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<a href="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" target="_blank"><img src="/assets/img/05ThePersonalPress/ThePersonalPress001.jpg" alt="Card image cap" 
+<a href="/assets/img/Per project/The Personal Press - Top.jpg" target="_blank"><img src="/assets/img/Per project/The Personal Press - Top.jpg" alt="Card image cap" 
 class="main-image"></a>
 <br> 
 
@@ -50,12 +50,18 @@ should be responsible for these prompts.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/05ThePersonalPress/ThePersonalPress002.jpg" target="_blank"><img src="/assets/img/05ThePersonalPress/ThePersonalPress002.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project/The Personal Press - 1.jpg" target="_blank"><img src="/assets/img/Per project/The Personal Press - 1.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <a href="/assets/img/05ThePersonalPress/ThePersonalPress003.jpg" target="_blank"><img src="/assets/img/05ThePersonalPress/ThePersonalPress003.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project/The Personal Press - 3.jpg" target="_blank"><img src="/assets/img/Per project/The Personal Press - 3.jpg" alt="Card image cap"></a>
+    </div>
+  </div><br>
+  <div class="row">
+    <div class="col-sm">
+      <a href="/assets/img/Per project/The Personal Press - 2.jpg" target="_blank"><img src="/assets/img/Per project/The Personal Press - 2.jpg" alt="Card image cap"></a>
     </div>
   </div>
+  <br>
 </div>
 <br>
 <!-- ## Title 2 -->

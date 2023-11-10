@@ -9,7 +9,7 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<a href="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias001.jpg" alt="Card image cap"
+<a href="/assets/img/Per project/Unconscious Bias - Top.jpg" target="_blank"><img src="/assets/img/Per project/Unconscious Bias - Top.jpg" alt="Card image cap"
 class="main-image"></a>
 <br> 
 
@@ -49,16 +49,16 @@ can do’.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/03UnconsciousBias/UnconsciousBias002.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias002.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project/Unconscious Bias - 1.jpg" target="_blank"><img src="/assets/img/Per project/Unconscious Bias - 1.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <a href="/assets/img/03UnconsciousBias/UnconsciousBias003.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias003.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project/Unconscious Bias - 2.jpg" target="_blank"><img src="/assets/img/Per project/Unconscious Bias - 2.jpg" alt="Card image cap"></a>
     </div>
   </div>
   <br>
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/03UnconsciousBias/UnconsciousBias004.jpg" target="_blank"><img src="/assets/img/03UnconsciousBias/UnconsciousBias004.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project/Unconscious Bias - 3.jpg" target="_blank"><img src="/assets/img/Per project/Unconscious Bias - 3.jpg" alt="Card image cap"></a>
     </div>
   </div>
 </div>

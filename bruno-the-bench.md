@@ -9,7 +9,7 @@ header_img: assets/img/mini-banner.png
 ---
 
 <!-- <img src="/assets/img/mini-banner.png" alt="Card image cap"> -->
-<a href="/assets/img/02BrunoTheBench/BrunoTheBench001.jpg" target="_blank"><img src="/assets/img/02BrunoTheBench/BrunoTheBench001.jpg" alt="Card image cap" 
+<a href="/assets/img/Per project/Bruno - Top.jpg" target="_blank"><img src="/assets/img/Per project/Bruno - Top.jpg" alt="Card image cap" 
 class="main-image"></a>
 <br> 
 
@@ -37,10 +37,15 @@ collective vision for the future city.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/02BrunoTheBench/BrunoTheBench002.jpg" target="_blank"><img src="/assets/img/02BrunoTheBench/BrunoTheBench002.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project/Bruno - 1.jpg" target="_blank"><img src="/assets/img/Per project/Bruno - 1.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
-      <a href="/assets/img/02BrunoTheBench/BrunoTheBench003.jpg" target="_blank"><img src="/assets/img/02BrunoTheBench/BrunoTheBench003.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project/Bruno - 3.jpg" target="_blank"><img src="/assets/img/Per project/Bruno - 3.jpg" alt="Card image cap"></a>
+    </div>
+  </div><br>
+  <div class="row">
+    <div class="col-sm">
+      <a href="/assets/img/Per project/Bruno - 2.jpg" target="_blank"><img src="/assets/img/Per project/Bruno - 2.jpg" alt="Card image cap"></a>
     </div>
   </div>
   <br>
