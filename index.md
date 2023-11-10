@@ -31,15 +31,15 @@ WE WANT TO THANK YOU FOR THIS!
 <br>
 <p class="card-text open-sans" style="margin-right:2em;margin-left: 2rem">
 Don’t worry if you couldn’t make it to Eindhoven:<br>
-<span class="NeueMachina">Take a look at our photos & read about the installations here below!
-Or read our blog about our Delft Design presence at Dutch Design Week <a href="https://www.tudelft.nl/2023/io/november/dreamdiscoverdesign" target="_blank"><u>via this link</u></a>.</span> 
+<span class="NeueMachina">Take a look at our photos & read about the installations here below!</span>
+Or <span class="NeueMachina">read our blog</span> about our Delft Design presence at Dutch Design Week <a href="https://www.tudelft.nl/2023/io/november/dreamdiscoverdesign" target="_blank"><u>via this link</u></a>. 
 If you don’t want to miss any news about our research, education and projects, and what we do with the collection of dreams:<br>
 <span class="NeueMachina">Follow us via LinkedIn</span> 
 <a href="https://www.linkedin.com/school/idetudelft/" target="_blank"><u>(TU Delft | Industrial Design Engineering)</u></a> <br>
 <span class="NeueMachina">or Instagram</span> 
 <a href="https://www.instagram.com/idetudelft/" target="_blank"><u>(@idetudelft).</u></a> 
 </p>
-
+<br>
 <h3 class="card-text NeueMachina-h3" style="font-size: 28px;"> 
 WE HOPE TO SEE YOU AGAIN SOON!
 </h3>

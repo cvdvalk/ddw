@@ -34,7 +34,7 @@ HEEL ERG BEDANKEN!
 <br>
 <p class="card-text open-sans" style="margin-right:2em;margin-left: 2rem">
 Geen zorgen als je niet in Eindhoven langs kon komen:<br>
-<span class="NeueMachina">Bekijk onze foto’s & lees over onze interactieve installaties hieronder! Of lees onze blog over onze Delft Design activiteiten tijdens Dutch Design Week <a href="https://www.tudelft.nl/2023/io/november/dreamdiscoverdesign" target="_target"><u>via deze link</u>.</a></span> Als je geen nieuws wilt missen over ons onderzoek, educatie en projecten, en wat er gebeurt met onze collective aan dromen:<br>
+<span class="NeueMachina">Bekijk onze foto’s & lees over onze interactieve installaties hieronder!</span> Of <span class="NeueMachina">lees onze blog</span> over onze Delft Design activiteiten tijdens Dutch Design Week <a href="https://www.tudelft.nl/2023/io/november/dreamdiscoverdesign" target="_target"><u>via deze link</u>.</a> Als je geen nieuws wilt missen over ons onderzoek, educatie en projecten, en wat er gebeurt met onze collective aan dromen:<br>
 <span class="NeueMachina">Volg ons via LinkedIn </span> 
 <a href="https://www.linkedin.com/school/idetudelft/" target="_blank"><u>(TU Delft | Industrial Design Engineering)</u></a> <br>
 <span class="NeueMachina">of Instagram </span> 
