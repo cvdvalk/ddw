@@ -71,15 +71,17 @@ belangrijke rol spelen bij het volgende ontwerpstadium.
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">Over de designers</h3>
   <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
-Chris holds a personal belief in the value of repairing, but recognises the equal importance
-of what precedes – the desire to repair. Her specific interest lies in the everyday objects that surround us
-and seem fixed in their existence, and how they will position themselves within this graduation research.
-<br>
-By making prototypes early in the process, Chris hopes to bring some of these ideas to life. She also
-wants to look at the physical implications of her ideas, forcing her to have a degree of realism in the
-project from an early stage. The prototyping techniques she uses are those she believes best suited to
-expressing the theoretical ideas, and not the other way around. This also functions as a way to analyse
-the original object and take the first steps in redesigning it.
+Chris heeft een persoonlijke overtuiging in de waarde van de repareerbaarheid van
+producten, maar erkent ook het even grote belang van wat eraan voorafgaat - de wil om te repareren.
+Haar specifieke interesse ligt bij alledaagse objecten waar we niet bij stilstaan, en welke plaats ze
+innemen binnen dit afstudeeronderzoek.
+    <br>
+Door vroeg in het proces prototypes te maken hoopt ze de besproken ideeën tot leven te brengen.
+Bovendien moet ze kijken naar de fysieke implicaties van haar ideeën, wat haar dwingt om vanaf een
+vroeg stadium een zekere mate van realisme in het project te brengen. De productietechnieken die zij
+heeft gebruikt, zijn het gevolg van wat zij passend vindt voor haar keuze in theoretische ideeën, en niet
+andersom. Het dient ook als een manier om het oorspronkelijke object te analyseren en eerste stappen te
+zetten in het maken van een nieuw ontwerp
   </div>
 </div>
 </div>
