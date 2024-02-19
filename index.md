@@ -146,7 +146,7 @@ on behalf of the organizing committee</i>
     <a href="/toasty-maker"><img class="card-img-top" src="/assets/img/Per project compressed/Toastie Maker - Top.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Speculative <br>Toastie Maker</b></p>
-        <p class="card-text" style="margin-left:0rem;margin-bottom:0rem;"> Chris Vooren’s ongoing master's graduation project aims to develop an approach to design products with enhanced durability. This research doesn't …</p>
+        <p class="card-text" style="margin-left:0rem;margin-bottom:0rem;"> Chris’ ongoing master's graduation project aims to develop an approach to design products with enhanced durability. This research doesn't …</p>
         <br>
           <!-- <a href="/toasty-maker" class="btn btn-primary NeueMachina">READ MORE</a> -->
       </div>
