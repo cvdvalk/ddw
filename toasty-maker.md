@@ -49,7 +49,7 @@ insights and input will play an important role in shaping the next stage of the 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/Per project compressed/Toastie Maker - 1.jpg" target="_blank"><img src="/assets/img/Per project compressed/Toastie Maker - 1.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project compressed/TUDDDW_23002_compressed-95.jpg" target="_blank"><img src="/assets/img/Per project compressed/TUDDDW_23002_compressed-95.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
       <a href="/assets/img/Per project compressed/Toastie Maker - 2.jpg" target="_blank"><img src="/assets/img/Per project compressed/Toastie Maker - 2.jpeg" alt="Card image cap"></a>
@@ -67,9 +67,8 @@ insights and input will play an important role in shaping the next stage of the 
 <div class="card white-card shadow">
 <div class="card-body">
 <h3 class="card-title text-center NeueMachina-h3">About the designers</h3>
-<img src="/assets/img/01SpeculativeToastieMaker/SpeculativeToastieMaker-ProfileImage.jpg" alt="Card image cap">
   <div class="card-body text-center card-text" style="margin-left: 2rem;margin-right: 2rem;">
-Chris Vooren (1998) holds a personal belief in the value of repairing, but recognises the equal importance
+Chris holds a personal belief in the value of repairing, but recognises the equal importance
 of what precedes – the desire to repair. Her specific interest lies in the everyday objects that surround us
 and seem fixed in their existence, and how they will position themselves within this graduation research.
 <br>
