@@ -49,7 +49,7 @@ insights and input will play an important role in shaping the next stage of the 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <a href="/assets/img/Per project compressed/Toastie Maker - 1.jpg" target="_blank"><img src="/assets/img/Per project compressed/Toastie Maker - 1.jpg" alt="Card image cap"></a>
+      <a href="/assets/img/Per project compressed/TUDDDW_23002_compressed-95.jpg" target="_blank"><img src="/assets/img/Per project compressed/TUDDDW_23002_compressed-95.jpg" alt="Card image cap"></a>
     </div>
     <div class="col-sm">
       <a href="/assets/img/Per project compressed/Toastie Maker - 2.jpg" target="_blank"><img src="/assets/img/Per project compressed/Toastie Maker - 2.jpeg" alt="Card image cap"></a>
