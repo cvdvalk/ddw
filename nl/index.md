@@ -148,7 +148,7 @@ namens de organisatie</i>
     <a href="/nl/toasty-maker"><img class="card-img-top" src="/assets/img/Per project compressed/Toastie Maker - Top.jpg" alt="Card image cap" style="margin-top: 0.5rem;"></a>
       <div class="card-body text-center">
         <p class="card-title NeueMachina" style="font-size:25px"><b>Speculative <br>Toastie Maker</b></p>
-        <p class="card-text" style="margin-left:0rem;margin-bottom:0rem;"> In dit lopende afstudeerproject voor het masterproject van student Chris Vooren ontwikkelt zij een benadering om producten te ontwerpen die …</p>
+        <p class="card-text" style="margin-left:0rem;margin-bottom:0rem;"> In dit lopende afstudeerproject voor het masterproject van student Chris ontwikkelt zij een benadering om producten te ontwerpen die …</p>
         <br>
           <!-- <a href="/nl/toasty-maker" class="btn btn-primary NeueMachina">LEES VERDER</a> -->
       </div>
